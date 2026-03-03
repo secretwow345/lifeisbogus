@@ -1,5 +1,6 @@
 #Ict
-![[media/IMG_7235 2.jpeg]]
+
+
 ![[IMG_7235 2.jpeg]]
 
 This means comment
