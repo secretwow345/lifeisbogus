@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "repo-storage/Sociology/types of research, notes.md",
+                "file": "repo-storage/Sociology/notes/types of research, notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "survey method.md",
+                "file": "types of interview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "survey method"
+              "title": "types of interview"
             }
           },
           {
@@ -522,33 +522,36 @@
   },
   "active": "55140fdb2c949e73",
   "lastOpenFiles": [
-    "interviews.md",
+    "repo-storage/Sociology/notes/types of research, notes.md",
+    "repo-storage/Sociology/types of research",
+    "repo-storage/Sociology/types of research/primary research/interviews.md",
+    "repo-storage/Sociology/types of research/primary research/methods of research data.md",
+    "repo-storage/Sociology/types of research/primary research/questionares.md",
+    "types of interview.md",
     "covert.md",
-    "observation method.md",
-    "repo-storage/Sociology/triangulation.md",
+    "repo-storage/Sociology/mindmap",
+    "repo-storage/Sociology/types of research/primary research/strengths and weaknesses of triangulation.md",
+    "repo-storage/Sociology/postivism and interpretivism.md",
+    "repo-storage/Sociology/types of research/primary research",
+    "repo-storage/Sociology/types of research/primary research/triangulation.md",
+    "types of research.md",
+    "repo-storage/Sociology/notes",
     "survey method.md",
+    "observation method.md",
     "primary research.md",
     "focus group method.md",
-    "repo-storage/Sociology/types of research, notes.md",
-    "questionares.md",
     "Hawthornes effect.md",
-    "repo-storage/Sociology/postivism and interpretivism.md",
-    "types of interview.md",
-    "repo-storage/Sociology/methods of research data.md",
-    "repo-storage/Sociology/strengths and weaknesses of triangulation.md",
     "test2432.md",
     "testing man man.md",
     "repo-storage/business/how to choose  your production methods.md",
     "deposit.md",
     "testoiojsoidjeowijoieijr.md",
     "repo-storage/business/production.md",
-    "sociology mindmap.canvas",
+    "repo-storage/Sociology/notes/sociology mindmap.canvas",
     "the important roles of central banks.md",
     "fund transfers.md",
     "the functions of central banks.md",
     "public expenditure.md",
-    "government expenditure.md",
-    "central banks.md",
     "economics mindmap.canvas",
     "media/v24044gl0000d3rv48vog65kf3ao02kg 2.mp4",
     "media/IMG_7237 2.jpeg",
@@ -559,10 +562,6 @@
     "untitled folder",
     "Untitled.base",
     "repo-storage/weekly",
-    "repo-storage/travel and tourism",
-    "repo-storage/Sociology",
-    "repo-storage/monthly",
-    "repo-storage/economics",
-    "repo-storage/daily"
+    "repo-storage/travel and tourism"
   ]
 }

@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"5aa76cec0c3e908b","type":"file","file":"repo-storage/Sociology/postivism and interpretivism.md","x":24,"y":-193,"width":400,"height":400},
-		{"id":"b1d7986820b3edd2","type":"file","file":"repo-storage/Sociology/types of research, notes.md","x":-376,"y":240,"width":400,"height":400}
-	],
-	"edges":[
-		{"id":"33f9b266d87d7f6a","fromNode":"5aa76cec0c3e908b","fromSide":"bottom","toNode":"b1d7986820b3edd2","toSide":"top"}
-	]
-}
