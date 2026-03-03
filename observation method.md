@@ -1,4 +1,4 @@
-#sociology #primary-research 
+#sociology/primary-research  
 
 observation method is when a reasearcher watches and observes what happens within a group of people, often by video or audio recordings
 

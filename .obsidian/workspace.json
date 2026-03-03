@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test2432.md",
+                "file": "repo-storage/Sociology/methods of research data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test2432"
+              "title": "methods of research data"
             }
           },
           {
@@ -365,7 +365,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#socialism",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -520,21 +520,22 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f0b5824b650d7036",
+  "active": "55140fdb2c949e73",
   "lastOpenFiles": [
-    "testing man man.md",
-    "test2432.md",
-    "repo-storage/Sociology/types of research, notes.md",
-    "repo-storage/Sociology/postivism and interpretivism.md",
+    "repo-storage/Sociology/strengths and weaknesses of triangulation.md",
+    "repo-storage/Sociology/triangulation.md",
+    "survey method.md",
+    "primary research.md",
+    "observation method.md",
+    "focus group method.md",
     "interviews.md",
     "questionares.md",
-    "survey method.md",
-    "observation method.md",
-    "primary research.md",
-    "focus group method.md",
+    "test2432.md",
+    "testing man man.md",
+    "repo-storage/Sociology/types of research, notes.md",
+    "repo-storage/Sociology/postivism and interpretivism.md",
     "repo-storage/business/how to choose  your production methods.md",
     "deposit.md",
-    "repo-storage/Sociology/triangulation.md",
     "testoiojsoidjeowijoieijr.md",
     "repo-storage/business/production.md",
     "Hawthornes effect.md",
@@ -549,7 +550,6 @@
     "regulate the banking industry.md",
     "liquidity margin.md",
     "economics mindmap.canvas",
-    "micro economic decision makers.md",
     "media/v24044gl0000d3rv48vog65kf3ao02kg 2.mp4",
     "media/IMG_7237 2.jpeg",
     "media/IMG_7236 2.jpeg",

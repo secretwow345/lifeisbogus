@@ -1,4 +1,4 @@
-#sociology #primary-research
+#sociology/primary-research 
 
 a collection of questions asked to anonymous individuals for research, can be done anywhere.
 
