@@ -46,6 +46,20 @@
             }
           },
           {
+            "id": "c9443fb69762f82a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "repo-storage/Sociology/triangulation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "triangulation"
+            }
+          },
+          {
             "id": "8e100be71897a103",
             "type": "leaf",
             "state": {
@@ -232,14 +246,10 @@
             "id": "1dfde0390bc32c98",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "weekly/to do, saturdays.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "to do, saturdays"
+              "title": "New tab"
             }
           },
           {
@@ -260,14 +270,10 @@
             "id": "6823ccb6b814b2c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "repo-storage/weekly/to do, saturdays.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "to do, saturdays"
+              "title": "New tab"
             }
           },
           {
@@ -299,7 +305,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -331,7 +337,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sociolo",
+                "query": "tag:#socialism",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -363,7 +369,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -486,12 +492,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "8b289c8cbbd8ed07",
+  "active": "84b4ae85ea65fb8d",
   "lastOpenFiles": [
-    "repo-storage/business/production.md",
-    "repo-storage/business/how to choose  your production methods.md",
-    "repo-storage/Sociology/types of research, notes.md",
     "repo-storage/Sociology/postivism and interpretivism.md",
+    "repo-storage/Sociology/types of research, notes.md",
+    "testoiojsoidjeowijoieijr.md",
+    "repo-storage/business/how to choose  your production methods.md",
+    "repo-storage/business/production.md",
     "Hawthornes effect.md",
     "sociology mindmap.canvas",
     "focus group method.md",
@@ -515,7 +522,6 @@
     "the barter system.md",
     "what are the issues with the barter system ?.md",
     "repo-storage/economics/what is money?.md",
-    "repo-storage/economics/money and banking.md",
     "media/v24044gl0000d3rv48vog65kf3ao02kg 2.mp4",
     "media/IMG_7237 2.jpeg",
     "media/IMG_7236 2.jpeg",
