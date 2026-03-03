@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "repo-storage/Sociology/types of research.md",
+                "file": "questionares.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "types of research"
+              "title": "questionares"
             }
           },
           {
@@ -320,7 +320,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#sociology",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -351,7 +351,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -476,8 +477,9 @@
   },
   "active": "d54d87a8b7a85c0b",
   "lastOpenFiles": [
-    "primary research.md",
     "repo-storage/Sociology/types of research.md",
+    "questionares.md",
+    "primary research.md",
     "repo-storage/Sociology/triangulation.md",
     "repo-storage/Sociology/postivism and interpretivism.md",
     "sociology mindmap.canvas",
@@ -510,7 +512,6 @@
     "what are the issues with the barter system ?.md",
     "repo-storage/economics/money and banking.md",
     "the barter system.md",
-    "micro economic decision makers.md",
     "Untitled.base",
     "repo-storage/weekly",
     "repo-storage/travel and tourism",
