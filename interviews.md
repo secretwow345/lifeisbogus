@@ -1,4 +1,4 @@
-#sociology/primary-research  
+#sociology/primary-research 
 
 a collection of questions asked to individuals of note relating to the topic at hand, needed to be planned
 
