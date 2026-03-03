@@ -1,6 +1,6 @@
 #Ict
 
-![[IMG_7235.jpeg]]
+![[IMG_7]]
 
 This means comment
 
