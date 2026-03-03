@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "banks.md",
+                "file": "central banks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "banks"
+              "title": "central banks"
             }
           },
           {
@@ -487,8 +487,9 @@
   },
   "active": "8b289c8cbbd8ed07",
   "lastOpenFiles": [
-    "economics mindmap.canvas",
     "banks.md",
+    "central banks.md",
+    "economics mindmap.canvas",
     "micro economic decision makers.md",
     "functions of money.md",
     "free goods.md",
