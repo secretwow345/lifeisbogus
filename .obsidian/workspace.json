@@ -1,0 +1,522 @@
+{
+  "main": {
+    "id": "ed5f3ac793785f61",
+    "type": "split",
+    "children": [
+      {
+        "id": "eaac9b2f09d7e1e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1fa44fba527422b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "665d0b49402a910b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sociology/postivism and interpretivism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "postivism and interpretivism"
+            }
+          },
+          {
+            "id": "8b289c8cbbd8ed07",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "economics mindmap.canvas",
+                "viewState": {
+                  "x": 812.3508951573161,
+                  "y": 144.25223353002326,
+                  "zoom": -0.8335252800882654
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "economics mindmap"
+            }
+          },
+          {
+            "id": "8e100be71897a103",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "economics mindmap.canvas",
+                "viewState": {
+                  "x": 540.6493737078082,
+                  "y": -691.2529257879035,
+                  "zoom": -0.7344932481646538
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "economics mindmap"
+            }
+          },
+          {
+            "id": "c5e144320d2a089c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "economics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "economics"
+            }
+          },
+          {
+            "id": "e94e85933abe464c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scarcity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "scarcity"
+            }
+          },
+          {
+            "id": "2981ed591033f98c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "monthly/to do, monthly.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "to do, monthly"
+            }
+          },
+          {
+            "id": "da67b15029771d1f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "economics mindmap.canvas",
+                "viewState": {
+                  "x": 834.4849973574229,
+                  "y": -230.06565391599716,
+                  "zoom": -1.0931551008225289
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "economics mindmap"
+            }
+          },
+          {
+            "id": "f26da0bb7d87d806",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "economics mindmap.canvas",
+                "viewState": {
+                  "x": 995.794236381536,
+                  "y": 123.75751570635498,
+                  "zoom": -1.211417387131507
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "economics mindmap"
+            }
+          },
+          {
+            "id": "381ec842aea5b5ca",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "economics mindmap.canvas",
+                "viewState": {
+                  "x": -205.51713187466842,
+                  "y": 770.2479475540337,
+                  "zoom": -0.9362068311603136
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "economics mindmap"
+            }
+          },
+          {
+            "id": "235a40c7bd4b67c3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "economics mindmap.canvas",
+                "viewState": {
+                  "x": -273.1185109246684,
+                  "y": 1726.1344015556554,
+                  "zoom": -1.3938163373103993
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "economics mindmap"
+            }
+          },
+          {
+            "id": "088876fb57b33386",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "repo-storage/Sociology/methods of research data.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "methods of research data"
+            }
+          },
+          {
+            "id": "d54d87a8b7a85c0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test"
+            }
+          },
+          {
+            "id": "f34b87df04ca48d1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "economics mindmap.canvas",
+                "viewState": {
+                  "x": 78.53569992581973,
+                  "y": 1651.8318597878172,
+                  "zoom": -1.1724372467693174
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "economics mindmap"
+            }
+          },
+          {
+            "id": "1dfde0390bc32c98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "weekly/to do, saturdays.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "to do, saturdays"
+            }
+          },
+          {
+            "id": "57a5e9a53891b011",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "repo-storage/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "6823ccb6b814b2c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "repo-storage/weekly/to do, saturdays.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "to do, saturdays"
+            }
+          },
+          {
+            "id": "17ebb3189028620d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "repo-storage/Sociology/strengths and weaknesses of triangulation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "strengths and weaknesses of triangulation"
+            }
+          },
+          {
+            "id": "901a0ea06704412c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "repo-storage/economics/money and banking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "money and banking"
+            }
+          }
+        ],
+        "currentTab": 13
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "284d029736d10bdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "59b4c343ad34d240",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea1fe5e17cfcfd72",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "84b4ae85ea65fb8d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "29f1c0abc5a9bf56",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "f0b5824b650d7036",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2508499056a16d9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8071b96b329826b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "184ad3990f1206cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2026-02-21.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-02-21"
+            }
+          },
+          {
+            "id": "8d42415377a5e07a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2026-02-21.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-02-21"
+            }
+          },
+          {
+            "id": "37e17d8b9fda0b66",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d5d5467a2e423950",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3b4eff2944619cb0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2026-02-21.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-02-21"
+            }
+          },
+          {
+            "id": "a6e9d2b240d5fc98",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "scarcity.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "f34b87df04ca48d1",
+  "lastOpenFiles": [
+    "test.md",
+    "repo-storage/tomoatoa.md",
+    "Untitled.md",
+    "repo-storage/Testimg from iphone to pc.md",
+    "repo-storage/README.md",
+    "Untitled 1.md",
+    "repo-storage/Sociology/methods of research data.md",
+    "repo-storage/Sociology/triangulation.md",
+    "economics mindmap.canvas",
+    "scab waist wearing(?).md",
+    "scarcity.md",
+    "functions of money.md",
+    "deffered payment.md",
+    "what are the issues with the barter system ?.md",
+    "repo-storage/economics/money and banking.md",
+    "the barter system.md",
+    "micro economic decision makers.md",
+    "repo-storage/economics/what are the characteristics of good money?.md",
+    "repo-storage/economics/what is money?.md",
+    "Why do we need money?.md",
+    "sociology mindmap.canvas",
+    "repo-storage/business/production.md",
+    "repo-storage/business/how to choose  your production methods.md",
+    "free goods.md",
+    "economic goods.md",
+    "economics.md",
+    "repo-storage/Sociology/postivism and interpretivism.md",
+    "repo-storage/Sociology/types of research.md",
+    "Untitled.base",
+    "repo-storage/weekly",
+    "repo-storage/travel and tourism",
+    "repo-storage/Sociology",
+    "repo-storage/monthly",
+    "repo-storage/economics",
+    "repo-storage/daily",
+    "repo-storage/business",
+    "repo-storage",
+    "travel and tourism"
+  ]
+}
