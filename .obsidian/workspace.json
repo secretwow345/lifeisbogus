@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "repo-storage/Sociology/methods of research data.md",
+                "file": "Hawthornes effect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "methods of research data"
+              "title": "Hawthornes effect"
             }
           },
           {
@@ -385,19 +385,9 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "f0b5824b650d7036",
-            "type": "leaf",
-            "state": {
-              "type": "tagfolder-view",
-              "state": {},
-              "icon": "stacked-levels",
-              "title": "Tag Folder"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -520,9 +510,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "55140fdb2c949e73",
+  "active": "29f1c0abc5a9bf56",
   "lastOpenFiles": [
-    "repo-storage/Sociology/strengths and weaknesses of triangulation.md",
+    "repo-storage/Sociology/types of research, notes.md",
+    "Hawthornes effect.md",
+    "repo-storage/Sociology/postivism and interpretivism.md",
+    "types of interview.md",
     "repo-storage/Sociology/triangulation.md",
     "survey method.md",
     "primary research.md",
@@ -530,15 +523,14 @@
     "focus group method.md",
     "interviews.md",
     "questionares.md",
+    "repo-storage/Sociology/methods of research data.md",
+    "repo-storage/Sociology/strengths and weaknesses of triangulation.md",
     "test2432.md",
     "testing man man.md",
-    "repo-storage/Sociology/types of research, notes.md",
-    "repo-storage/Sociology/postivism and interpretivism.md",
     "repo-storage/business/how to choose  your production methods.md",
     "deposit.md",
     "testoiojsoidjeowijoieijr.md",
     "repo-storage/business/production.md",
-    "Hawthornes effect.md",
     "sociology mindmap.canvas",
     "the important roles of central banks.md",
     "fund transfers.md",
@@ -547,8 +539,6 @@
     "government expenditure.md",
     "central banks.md",
     "banks.md",
-    "regulate the banking industry.md",
-    "liquidity margin.md",
     "economics mindmap.canvas",
     "media/v24044gl0000d3rv48vog65kf3ao02kg 2.mp4",
     "media/IMG_7237 2.jpeg",
