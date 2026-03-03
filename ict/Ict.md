@@ -10,6 +10,8 @@ This means comment
 
 ![[IMG_7236 2.jpeg]]
 
+
+
 This is how to add paragraph format in html
 
 Once the <p> formula is used. A duplicate will arise. Use ctrl x ( cut ) to move to the end 
