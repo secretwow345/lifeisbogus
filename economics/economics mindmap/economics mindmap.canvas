@@ -13,15 +13,15 @@
 		{"id":"e51a9e40bd3bf92d","type":"text","text":"micro economics","x":-640,"y":-428,"width":250,"height":60},
 		{"id":"9ad469f05cfdd13d","type":"text","text":"governments\n","x":-80,"y":-269,"width":250,"height":60},
 		{"id":"c315c0ba8faddba8","type":"text","text":"these all fall under [[micro economic decision makers]]\n","x":-640,"y":-129,"width":250,"height":60},
-		{"id":"a3b76d1654ecda5d","type":"file","file":"economics/micro economic decision makers.md","x":-706,"y":3,"width":382,"height":321},
+		{"id":"a3b76d1654ecda5d","type":"file","file":"economics/micro economics/micro economic decision makers.md","x":-706,"y":3,"width":382,"height":321},
 		{"id":"c4bbbbf3bb480114","type":"file","file":"repo-storage/economics/what is money?.md","x":-710,"y":400,"width":391,"height":200},
 		{"id":"09d0a1ed29e19882","type":"text","text":"prior to the invention of money, there was the [[the barter system]]","x":-120,"y":1277,"width":315,"height":103},
-		{"id":"1e036bf4f82c2e4b","type":"file","file":"economics/the barter system.md","x":-162,"y":1480,"width":400,"height":260},
-		{"id":"85a2e1868884897b","type":"file","file":"economics/what are the issues with the barter system ?.md","x":-162,"y":1820,"width":642,"height":380},
-		{"id":"2b2fa2c028b97305","type":"file","file":"economics/Why do we need money?.md","x":-168,"y":930,"width":406,"height":258},
+		{"id":"1e036bf4f82c2e4b","type":"file","file":"economics/general terms/the barter system.md","x":-162,"y":1480,"width":400,"height":260},
+		{"id":"85a2e1868884897b","type":"file","file":"economics/micro economics/what are the issues with the barter system ?.md","x":-162,"y":1820,"width":642,"height":380},
+		{"id":"2b2fa2c028b97305","type":"file","file":"economics/micro economics/Why do we need money?.md","x":-168,"y":930,"width":406,"height":258},
 		{"id":"856c792e787cec4e","type":"text","text":"without money, there wouldnt be any motive for exchanging goods or services","x":-127,"y":718,"width":324,"height":140},
 		{"id":"05901acd657ba9e4","type":"file","file":"repo-storage/economics/what are the characteristics of good money?.md","x":-1320,"y":718,"width":400,"height":400},
-		{"id":"e3e1f63d0930c5c8","x":-1320,"y":1277,"width":400,"height":400,"type":"file","file":"economics/functions of money.md"}
+		{"id":"e3e1f63d0930c5c8","x":-1320,"y":1277,"width":400,"height":400,"type":"file","file":"economics/micro economics/functions of money.md"}
 	],
 	"edges":[
 		{"id":"927d01471ae19afc","fromNode":"949f08300cc93b23","fromSide":"bottom","toNode":"bb90dce50aabf8b5","toSide":"top"},
