@@ -14,4 +14,7 @@ government account --> central banks --> [[public expenditure]]
 
 maanaging the stock for government borrowing and supervising the bank system is different because the supervision of banks is more microeconomic as it priorities on banks not governments
 
-- act as bankers bank ( lending money to banks to per
+- act as bankers bank ( lending money to banks to prevent them from bankruptcy )
+
+- operating the government [[monitory policy]]
+
