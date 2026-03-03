@@ -4,4 +4,6 @@ expenditure for the government operations , this is payed by the government and 
 
 - [[public sector]] employees salary
 - government provision for food supply; such as free food , free water
-- education expendi
+- education expenditure
+- defence expenditure, military
+- maintainance expenditure ; gas, petrol etc
