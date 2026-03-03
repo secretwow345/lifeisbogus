@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deposit.md",
+                "file": "questionares.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "deposit"
+              "title": "questionares"
             }
           },
           {
@@ -368,7 +368,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -493,15 +494,20 @@
   },
   "active": "c9443fb69762f82a",
   "lastOpenFiles": [
-    "repo-storage/Sociology/triangulation.md",
+    "survey method.md",
+    "questionares.md",
     "repo-storage/Sociology/postivism and interpretivism.md",
     "repo-storage/Sociology/types of research, notes.md",
-    "testoiojsoidjeowijoieijr.md",
+    "observation method.md",
+    "primary research.md",
+    "focus group method.md",
     "repo-storage/business/how to choose  your production methods.md",
+    "deposit.md",
+    "repo-storage/Sociology/triangulation.md",
+    "testoiojsoidjeowijoieijr.md",
     "repo-storage/business/production.md",
     "Hawthornes effect.md",
     "sociology mindmap.canvas",
-    "focus group method.md",
     "the important roles of central banks.md",
     "fund transfers.md",
     "the functions of central banks.md",
@@ -509,7 +515,6 @@
     "government expenditure.md",
     "central banks.md",
     "banks.md",
-    "deposit.md",
     "regulate the banking industry.md",
     "liquidity margin.md",
     "economics mindmap.canvas",
@@ -517,10 +522,6 @@
     "functions of money.md",
     "free goods.md",
     "Why do we need money?.md",
-    "repo-storage/economics/what are the characteristics of good money?.md",
-    "deffered payment.md",
-    "the barter system.md",
-    "what are the issues with the barter system ?.md",
     "media/v24044gl0000d3rv48vog65kf3ao02kg 2.mp4",
     "media/IMG_7237 2.jpeg",
     "media/IMG_7236 2.jpeg",
