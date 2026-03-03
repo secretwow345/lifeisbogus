@@ -28,5 +28,5 @@ this is the oldest system that used to exchange goods (or) services for another 
 
 6 - store of value , 
 
-7 - defered payment
+7 - [[deffered payment]]
 
