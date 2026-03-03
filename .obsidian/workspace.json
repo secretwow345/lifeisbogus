@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "primary research.md",
+                "file": "repo-storage/Sociology/types of research.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "primary research"
+              "title": "types of research"
             }
           },
           {
@@ -474,10 +474,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ea1fe5e17cfcfd72",
+  "active": "d54d87a8b7a85c0b",
   "lastOpenFiles": [
-    "repo-storage/Sociology/types of research.md",
     "primary research.md",
+    "repo-storage/Sociology/types of research.md",
     "repo-storage/Sociology/triangulation.md",
     "repo-storage/Sociology/postivism and interpretivism.md",
     "sociology mindmap.canvas",
