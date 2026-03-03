@@ -25,8 +25,8 @@
   "overrideTagClicking": true,
   "useMultiPaneList": false,
   "archiveTags": "",
-  "disableNarrowingDown": true,
-  "expandUntaggedToRoot": false,
+  "disableNarrowingDown": false,
+  "expandUntaggedToRoot": true,
   "disableDragging": false,
   "linkConfig": {
     "incoming": {
