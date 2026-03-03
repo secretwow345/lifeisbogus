@@ -16,4 +16,4 @@ opposite of participant observation , when the researcher is not involved, yet m
 
 [[overt]] : the group knows they are being observed
 
-[[covert]] : the group is unaware of the research
+[[covert]] : the group is unaware of the research ( avoids [[Hawthornes effect]] , but unethical)
