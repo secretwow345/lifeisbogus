@@ -35,17 +35,14 @@
             "id": "8b289c8cbbd8ed07",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "sociology mindmap.canvas",
-                "viewState": {
-                  "x": 194.53299539719742,
-                  "y": 538.8980508670295,
-                  "zoom": -0.6715449751430128
-                }
+                "file": "repo-storage/business/how to choose  your production methods.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "sociology mindmap"
+              "icon": "lucide-file",
+              "title": "how to choose  your production methods"
             }
           },
           {
@@ -365,7 +362,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -488,8 +486,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ea1fe5e17cfcfd72",
+  "active": "8b289c8cbbd8ed07",
   "lastOpenFiles": [
+    "repo-storage/business/production.md",
+    "repo-storage/business/how to choose  your production methods.md",
+    "repo-storage/Sociology/types of research, notes.md",
+    "repo-storage/Sociology/postivism and interpretivism.md",
+    "Hawthornes effect.md",
+    "sociology mindmap.canvas",
     "focus group method.md",
     "the important roles of central banks.md",
     "fund transfers.md",
@@ -512,12 +516,6 @@
     "what are the issues with the barter system ?.md",
     "repo-storage/economics/what is money?.md",
     "repo-storage/economics/money and banking.md",
-    "observation method.md",
-    "repo-storage/Sociology/types of research, notes.md",
-    "Hawthornes effect.md",
-    "interviews.md",
-    "primary research.md",
-    "sociology mindmap.canvas",
     "media/v24044gl0000d3rv48vog65kf3ao02kg 2.mp4",
     "media/IMG_7237 2.jpeg",
     "media/IMG_7236 2.jpeg",
