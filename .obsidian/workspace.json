@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the functions of central banks.md",
+                "file": "public expenditure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "the functions of central banks"
+              "title": "public expenditure"
             }
           },
           {
@@ -331,7 +331,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "centr",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -362,8 +362,7 @@
               "title": "Tag Folder"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -488,8 +487,10 @@
   },
   "active": "8b289c8cbbd8ed07",
   "lastOpenFiles": [
-    "central banks.md",
+    "government expenditure.md",
+    "public expenditure.md",
     "the functions of central banks.md",
+    "central banks.md",
     "regulate the banking industry.md",
     "the important roles of central banks.md",
     "deposit.md",
@@ -513,8 +514,6 @@
     "Hawthornes effect.md",
     "interviews.md",
     "primary research.md",
-    "survey method.md",
-    "questionares.md",
     "sociology mindmap.canvas",
     "media/v24044gl0000d3rv48vog65kf3ao02kg 2.mp4",
     "media/IMG_7237 2.jpeg",
