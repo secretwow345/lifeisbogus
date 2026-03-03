@@ -1,0 +1,1 @@
+unstructured interviews are more in depth and longer than structured, more similar to a conversation than a study
