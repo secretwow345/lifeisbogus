@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deposit.md",
+                "file": "the functions of central banks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "deposit"
+              "title": "the functions of central banks"
             }
           },
           {
@@ -331,7 +331,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "centr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -362,7 +362,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -487,12 +488,13 @@
   },
   "active": "8b289c8cbbd8ed07",
   "lastOpenFiles": [
+    "central banks.md",
+    "the functions of central banks.md",
     "regulate the banking industry.md",
+    "the important roles of central banks.md",
     "deposit.md",
     "fund transfers.md",
     "liquidity margin.md",
-    "the important roles of central banks.md",
-    "central banks.md",
     "banks.md",
     "economics mindmap.canvas",
     "micro economic decision makers.md",
@@ -513,7 +515,6 @@
     "primary research.md",
     "survey method.md",
     "questionares.md",
-    "repo-storage/Sociology/triangulation.md",
     "sociology mindmap.canvas",
     "media/v24044gl0000d3rv48vog65kf3ao02kg 2.mp4",
     "media/IMG_7237 2.jpeg",

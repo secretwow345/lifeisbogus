@@ -8,3 +8,5 @@ central banks also monitor commerical banks to meet government economic objectiv
 
 
 what are [[the important roles of central banks]]?
+
+what are [[the functions of central banks]]?
