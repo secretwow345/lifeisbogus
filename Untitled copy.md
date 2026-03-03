@@ -1,0 +1,6 @@
+
+As each day passes , it seems like nothing is getting better. Every other day it seems like theres another war or massacre is happening. People have been too desensitized to it. They treat the massacres and deaths as a passing trend. The middle east, Africa and parts of Asia have been suffering since the dawn of time and no one seems to care.
+
+It pains me seeing those videos, it pains me seeing my sisters run in fear from those bombs in the sky. These western powers have always resorted to war and violence to these areas. They try to colonize and control impoverished lands and kill whoever gets in their way . Western nations are built on this imperialist principle.
+
+War is an illusion. Almost all wars connect to these imperialist ideals. They use these wars and genocides to illude from a failed society built on stealing and corruption. They intentionally cause a divide and urge people to be violent . All for the illusion of them being the morally superior. It pains me seeing people be patriotic of these lands, its saddening seeing how idiotic and gullible people can be . A divided society is a compliant society .
