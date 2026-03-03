@@ -1,6 +1,9 @@
 #Ict
 
 
+![[IMG_7481.jpg]]
+
+<--BLANKTEXTHERE, kwi55,55 -->]
 
 
 This means comment
@@ -13,7 +16,7 @@ Once the <p> formula is used. A duplicate will arise. Use ctrl x ( cut ) to move
 
 Accessed through code menu
 
-![[IMG_7177 2.jpeg![[IMG_7237 2.jpeg]]]]
+
 
 Border collapsed
 
@@ -21,7 +24,7 @@ Border collapsed
 Can be accesses the
 
 
-![[IMG_7237 2.jpeg]]
+
 
 In target frame, an underscore must be used for it to work. After the underscore a name will be placed.
 
