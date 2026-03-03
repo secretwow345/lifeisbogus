@@ -207,17 +207,14 @@
             "id": "f34b87df04ca48d1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "economics mindmap.canvas",
-                "viewState": {
-                  "x": 78.53569992581973,
-                  "y": 1651.8318597878172,
-                  "zoom": -1.1724372467693174
-                }
+                "file": "repo-storage/tomoatoa.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "economics mindmap"
+              "icon": "lucide-file",
+              "title": "tomoatoa"
             }
           },
           {
@@ -478,8 +475,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f34b87df04ca48d1",
+  "active": "f0b5824b650d7036",
   "lastOpenFiles": [
+    "economics mindmap.canvas",
     "test.md",
     "repo-storage/tomoatoa.md",
     "Untitled.md",
@@ -488,7 +486,6 @@
     "Untitled 1.md",
     "repo-storage/Sociology/methods of research data.md",
     "repo-storage/Sociology/triangulation.md",
-    "economics mindmap.canvas",
     "scab waist wearing(?).md",
     "scarcity.md",
     "functions of money.md",
@@ -507,7 +504,6 @@
     "economic goods.md",
     "economics.md",
     "repo-storage/Sociology/postivism and interpretivism.md",
-    "repo-storage/Sociology/types of research.md",
     "Untitled.base",
     "repo-storage/weekly",
     "repo-storage/travel and tourism",
