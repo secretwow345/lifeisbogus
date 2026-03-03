@@ -4,49 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eaac9b2f09d7e1e4",
+        "id": "efbf3d066f9ebe2f",
         "type": "tabs",
         "children": [
           {
-            "id": "a1fa44fba527422b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "665d0b49402a910b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sociology/postivism and interpretivism.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "postivism and interpretivism"
-            }
-          },
-          {
-            "id": "8b289c8cbbd8ed07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "repo-storage/business/how to choose  your production methods.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "how to choose  your production methods"
-            }
-          },
-          {
-            "id": "c9443fb69762f82a",
+            "id": "e6551cd95da1f0be",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -58,282 +20,8 @@
               "icon": "lucide-file",
               "title": "types of research, notes"
             }
-          },
-          {
-            "id": "011c391fe3c040c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "testing man man.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "testing man man"
-            }
-          },
-          {
-            "id": "55140fdb2c949e73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "types of interview.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "types of interview"
-            }
-          },
-          {
-            "id": "8e100be71897a103",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "economics mindmap.canvas",
-                "viewState": {
-                  "x": 540.6493737078082,
-                  "y": -691.2529257879035,
-                  "zoom": -0.7344932481646538
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "economics mindmap"
-            }
-          },
-          {
-            "id": "c5e144320d2a089c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "economics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "economics"
-            }
-          },
-          {
-            "id": "e94e85933abe464c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scarcity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "scarcity"
-            }
-          },
-          {
-            "id": "2981ed591033f98c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "monthly/to do, monthly.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "to do, monthly"
-            }
-          },
-          {
-            "id": "da67b15029771d1f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "economics mindmap.canvas",
-                "viewState": {
-                  "x": 834.4849973574229,
-                  "y": -230.06565391599716,
-                  "zoom": -1.0931551008225289
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "economics mindmap"
-            }
-          },
-          {
-            "id": "f26da0bb7d87d806",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "economics mindmap.canvas",
-                "viewState": {
-                  "x": 995.794236381536,
-                  "y": 123.75751570635498,
-                  "zoom": -1.211417387131507
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "economics mindmap"
-            }
-          },
-          {
-            "id": "381ec842aea5b5ca",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "economics mindmap.canvas",
-                "viewState": {
-                  "x": -205.51713187466842,
-                  "y": 770.2479475540337,
-                  "zoom": -0.9362068311603136
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "economics mindmap"
-            }
-          },
-          {
-            "id": "235a40c7bd4b67c3",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "economics mindmap.canvas",
-                "viewState": {
-                  "x": -273.1185109246684,
-                  "y": 1726.1344015556554,
-                  "zoom": -1.3938163373103993
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "economics mindmap"
-            }
-          },
-          {
-            "id": "088876fb57b33386",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "repo-storage/Sociology/methods of research data.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "methods of research data"
-            }
-          },
-          {
-            "id": "d54d87a8b7a85c0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "micro economic decision makers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "micro economic decision makers"
-            }
-          },
-          {
-            "id": "fb2d51001b6696b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "banks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "banks"
-            }
-          },
-          {
-            "id": "f34b87df04ca48d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IMG_7.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IMG_7"
-            }
-          },
-          {
-            "id": "1dfde0390bc32c98",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "57a5e9a53891b011",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "repo-storage/README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "6823ccb6b814b2c6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "17ebb3189028620d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "repo-storage/Sociology/strengths and weaknesses of triangulation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "strengths and weaknesses of triangulation"
-            }
-          },
-          {
-            "id": "901a0ea06704412c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "repo-storage/economics/money and banking.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "money and banking"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -396,8 +84,7 @@
               "title": "Tag Folder"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -520,14 +207,32 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "55140fdb2c949e73",
+  "active": "e6551cd95da1f0be",
   "lastOpenFiles": [
+    "repo-storage/Sociology/types of research/primary research/questionares/types of questionares.md",
+    "repo-storage/Sociology/types of research/primary research/questionares",
     "repo-storage/Sociology/notes/types of research, notes.md",
+    "repo-storage/Sociology/notes/sociology mindmap.canvas",
+    "repo-storage/Sociology/types of research/primary research/questionares/questionares.md",
+    "test.md",
+    "repo-storage/Sociology/types of research/primary research/interviews/types of interview.md",
+    "ihiuhiuh",
+    "repo-storage/Sociology/types of research/primary research/interviews/interviews.md",
+    "repo-storage/Sociology/types of research/primary research/interviews",
+    "primary research.md",
+    "focus group method.md",
+    "repo-storage/economics/money and banking.md",
+    "repo-storage/README.md",
+    "IMG_7.md",
+    "banks.md",
+    "micro economic decision makers.md",
+    "economics mindmap.canvas",
+    "scarcity.md",
+    "economics.md",
+    "testing man man.md",
+    "repo-storage/business/how to choose  your production methods.md",
     "repo-storage/Sociology/types of research",
-    "repo-storage/Sociology/types of research/primary research/interviews.md",
     "repo-storage/Sociology/types of research/primary research/methods of research data.md",
-    "repo-storage/Sociology/types of research/primary research/questionares.md",
-    "types of interview.md",
     "covert.md",
     "repo-storage/Sociology/mindmap",
     "repo-storage/Sociology/types of research/primary research/strengths and weaknesses of triangulation.md",
@@ -538,30 +243,12 @@
     "repo-storage/Sociology/notes",
     "survey method.md",
     "observation method.md",
-    "primary research.md",
-    "focus group method.md",
-    "Hawthornes effect.md",
-    "test2432.md",
-    "testing man man.md",
-    "repo-storage/business/how to choose  your production methods.md",
-    "deposit.md",
-    "testoiojsoidjeowijoieijr.md",
-    "repo-storage/business/production.md",
-    "repo-storage/Sociology/notes/sociology mindmap.canvas",
-    "the important roles of central banks.md",
-    "fund transfers.md",
-    "the functions of central banks.md",
-    "public expenditure.md",
-    "economics mindmap.canvas",
     "media/v24044gl0000d3rv48vog65kf3ao02kg 2.mp4",
     "media/IMG_7237 2.jpeg",
     "media/IMG_7236 2.jpeg",
     "media/IMG_7235 2.jpeg",
     "media/IMG_7177 2.jpeg",
     "media",
-    "untitled folder",
-    "Untitled.base",
-    "repo-storage/weekly",
-    "repo-storage/travel and tourism"
+    "untitled folder"
   ]
 }
