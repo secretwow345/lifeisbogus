@@ -1,0 +1,1 @@
+covert observation is where those being observed are **not aware** of the fact.

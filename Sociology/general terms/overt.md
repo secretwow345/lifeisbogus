@@ -1,0 +1,1 @@
+Overt observation is where those being observed **are aware** of the fact.

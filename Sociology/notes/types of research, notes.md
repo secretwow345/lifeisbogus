@@ -50,18 +50,33 @@ questionare terms also aplly to survey . eg. closed questions
 
 ------- [[observation method]]
 
-observation method is when a reasearcher watches and observes what happens  within a subject
+observation method is when a reasearcher watches and observes what happens within a group of people, often by video or audio recordings
 
+there are three types of observation :
+
+- participant observation
+
+when the researcher is directly involved with the group being researched, i.e. researcher in safari while researching african tribes
+
+- non participant observation
+
+opposite of participant observation , when the researcher is not involved, yet monitors the behaviours from the outside without getting involved
+
+- overt/covert
+
+[[overt]] : the group knows they are being observed
+
+[[covert]] : the group is unaware of the research ( avoids [[Hawthornes effect]] , but unethical)
 
 ------------- [[focus group method]]
 
-a qualitive research method often held by [[customer federation]] to discuss about a specific topic or market position, prompt often held by customer federations employer, this research is to find what the customers would like the most
+a qualitive research method often held by [[consumer federation]] to discuss about a specific topic or market position, prompt often held by customer federations employer, this research is to find what the customers would like the most
 
 key features of focus groups :
 
 - interaction : a focus on how individuals agree or disagree with eachother, unlike individual interviews
 - homogeneity : participates holding similar beliefs or characteristics, to express their unique experience with their similar characteristics, e.g. age, sex, experiences
-- moderator : the researcher guides discussion with open ended questions to see how this group reacts and engages in settlements, a form of [[participant observation]], [[observation method]]
+- moderator : the researcher guides discussion with open ended questions to see how this group reacts and engages in settlements, a form of [[observation method]]
 
 examples of focus groups in sociology :
 
