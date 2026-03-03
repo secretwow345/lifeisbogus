@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "focus group method.md",
+                "file": "observation method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "focus group method"
+              "title": "observation method"
             }
           },
           {
@@ -477,8 +477,8 @@
   },
   "active": "d54d87a8b7a85c0b",
   "lastOpenFiles": [
-    "repo-storage/Sociology/types of research, notes.md",
     "focus group method.md",
+    "repo-storage/Sociology/types of research, notes.md",
     "observation method.md",
     "Hawthornes effect.md",
     "interviews.md",

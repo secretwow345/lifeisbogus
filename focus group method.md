@@ -5,4 +5,5 @@ a qualitive research method often held by [[customer federation]] to discuss abo
 key features of focus groups :
 
 - interaction : a focus on how individuals agree or disagree with eachother, unlike individual interviews
-- homogeneity :
+- homogeneity : participates holding similar beliefs or characteristics, to express their unique experience with their similar characteristics, e.g. age, sex, experiences
+- moderator : the researcher guides discussion with open ended questions to see how this group reacts and engages in settlements, a form of [[participant observation]], [[observation method]]
