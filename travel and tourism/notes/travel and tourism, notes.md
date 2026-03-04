@@ -54,4 +54,16 @@ Meetings ;
 - events designed to bring people together so they can exchange information, either from companies and organizations
 
 Incentives ; 
-- includes travel to a foreign country or domestically for the motivational purpose to increase or reward for the employee preformance or effort
+- includes travel to a foreign country or domestically for the motivational purpose to increase or reward for the employee preformance or effort, 
+its leisure tourism for celebrations of hard working emplopyees
+
+confrences ;
+- multi day events having atleast 100 delagates attending for the purpose of exchanging information or discussion
+
+exhibitions ; 
+- involves the bringing toegther of people for the purpose of viewing products and services
+
+confrences mainly differinciate from exhibitions by amount of delagates, and purpose of event, 
+
+confrences = minimum 100 delagates, to exchange info
+exhibitions = to view product, 
