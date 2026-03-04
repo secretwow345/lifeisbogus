@@ -1,8 +1,15 @@
 {
 	"nodes":[
-		{"id":"826c1889b6f5e3b7","x":-422,"y":358,"width":400,"height":400,"type":"file","file":"travel and tourism/types of business tourism/Meetings.md"},
-		{"id":"b46c8045045b01b1","type":"file","file":"travel and tourism/types of business tourism/Incentives.md","x":-244,"y":147,"width":400,"height":400},
-		{"id":"fe7c5ac720e22b59","type":"text","text":"business tourism . devided by the acronym, MICE.","x":-125,"y":-30,"width":250,"height":60}
+		{"id":"fe7c5ac720e22b59","type":"text","text":"business tourism . devided by the acronym, MICE.","x":115,"y":0,"width":250,"height":60},
+		{"id":"c77d3434e06b715a","x":280,"y":120,"width":400,"height":400,"type":"file","file":"travel and tourism/types of business tourism/confrences.md"},
+		{"id":"b46c8045045b01b1","type":"file","file":"travel and tourism/types of business tourism/Incentives.md","x":-160,"y":120,"width":400,"height":400},
+		{"id":"826c1889b6f5e3b7","x":-600,"y":120,"width":400,"height":400,"type":"file","file":"travel and tourism/types of business tourism/Meetings.md"},
+		{"id":"6f41829e28c9bed3","x":720,"y":120,"width":400,"height":400,"type":"file","file":"travel and tourism/types of business tourism/exhibitions.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"38fc2e4aac73e845","fromNode":"fe7c5ac720e22b59","fromSide":"bottom","toNode":"826c1889b6f5e3b7","toSide":"top"},
+		{"id":"0f7add6f95cb1ef1","fromNode":"fe7c5ac720e22b59","fromSide":"bottom","toNode":"b46c8045045b01b1","toSide":"top"},
+		{"id":"501212385a5022e2","fromNode":"fe7c5ac720e22b59","fromSide":"bottom","toNode":"c77d3434e06b715a","toSide":"top"},
+		{"id":"7ec2e7c0cea0c2dc","fromNode":"fe7c5ac720e22b59","fromSide":"bottom","toNode":"6f41829e28c9bed3","toSide":"top"}
+	]
 }

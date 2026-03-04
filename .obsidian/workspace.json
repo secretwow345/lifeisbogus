@@ -25,17 +25,14 @@
             "id": "2d114b451bb044cd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "travel and tourism/types of business tourism/different forms of business tourism.canvas",
-                "viewState": {
-                  "x": 59.45204151041093,
-                  "y": 434.64807067988886,
-                  "zoom": -0.5880623182654382
-                }
+                "file": "travel and tourism/notes/visiting freinds and relatives ( VFR ).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "different forms of business tourism"
+              "icon": "lucide-file",
+              "title": "visiting freinds and relatives ( VFR )"
             }
           }
         ],
@@ -215,14 +212,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ea1fe5e17cfcfd72",
+  "active": "2d114b451bb044cd",
   "lastOpenFiles": [
-    "travel and tourism/types of business tourism/Meetings.md",
-    "travel and tourism/types of business tourism/different forms of business tourism.canvas",
     "travel and tourism/notes/travel and tourism, notes.md",
+    "travel and tourism/notes/visiting freinds and relatives ( VFR ).md",
+    "travel and tourism/types of business tourism/different forms of business tourism.canvas",
+    "travel and tourism/types of business tourism/exhibitions.md",
+    "travel and tourism/types of business tourism/Meetings.md",
     "travel and tourism/notes/types of tourist.canvas",
     "travel and tourism/types of business tourism/Incentives.md",
-    "travel and tourism/types of business tourism/exhibitions.md",
     "travel and tourism/types of business tourism/confrences.md",
     "travel and tourism/types of business tourism",
     "IMG_7.md",
