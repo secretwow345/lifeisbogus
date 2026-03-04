@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "travel and tourism/notes/travel and tourism, notes.md",
+                "file": "travel and tourism/general terms/business tourists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "travel and tourism, notes"
+              "title": "business tourists"
             }
           }
         ],
@@ -224,8 +224,11 @@
   },
   "active": "2d114b451bb044cd",
   "lastOpenFiles": [
-    "travel and tourism/notes/types of tourist.canvas",
+    "travel and tourism/general terms/leisure tourists.md",
+    "travel and tourism/general terms/business tourists.md",
     "travel and tourism/notes/travel and tourism, notes.md",
+    "travel and tourism/general terms",
+    "travel and tourism/notes/types of tourist.canvas",
     "travel and tourism/notes",
     "Plan as of now.md",
     "media/v24044gl0000d3rv48vog65kf3ao02kg 2.mp4",
@@ -259,12 +262,10 @@
     "economics/micro economics/money and banking/money/what are the issues with the barter system ?.md",
     "economics/micro economics/money and banking",
     "economics/micro economics/money and banking/money",
-    "economics/micro economics/money and banking/regulate the banking industry.md",
     "economics/economics mindmap/economics mindmap.canvas",
     "economics/economics mindmap",
     "economics/notes",
     "economics/general terms",
-    "economics/macro economics",
     "Sociology/mindmap/sociology mindmap.canvas",
     "repo-storage/Sociology/notes/sociology mindmap.canvas",
     "media/IMG_7235 2.jpeg"
