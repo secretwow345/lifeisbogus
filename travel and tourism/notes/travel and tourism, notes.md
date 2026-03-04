@@ -90,5 +90,6 @@ what is the purpose of the travel and tourism industry?
 
 the travel and tourism industry is made up of various sub sectors including travel agents, transportation, attractions, accomodation and catering, tourist information and guiding services, and tour operators.
 
-- the presence of these sub sectors determines the characteristics of 
+- the presence of these sub sectors determines the characteristics of the tourism industry in that particular location
+
 
