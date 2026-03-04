@@ -30,4 +30,11 @@ when people enter a country for holiday or other purposes
 
 **inbound = travelling IN a new country seperete from your home country**
 
+tourists can be seperated into multiple categories 
 
+[[types of tourist.canvas]]
+
+
+[[leisure tourists]]
+
+- are people
