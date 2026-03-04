@@ -92,6 +92,8 @@ the travel and tourism industry is made up of various sub sectors including trav
 
 - the presence of these sub sectors determines the characteristics of the tourism industry in that particular location
 
+see :
 
 [[sub sectors of travel and tourism.canvas]]
+
 
