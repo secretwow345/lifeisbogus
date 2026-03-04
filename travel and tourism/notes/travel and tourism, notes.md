@@ -2,4 +2,4 @@
 
 [[what is tourism]]?
 
-tourism is the temporary stay at a
+tourism is the temporary stay at a 
