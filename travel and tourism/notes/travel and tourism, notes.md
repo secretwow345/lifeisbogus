@@ -63,7 +63,11 @@ confrences ;
 exhibitions ; 
 - involves the bringing toegther of people for the purpose of viewing products and services
 
-confrences mainly differinciate from exhibitions by amount of delagates, and purpose of event, 
+confrences mainly differinciate from exhibitions by purpose of event, 
 
-confrences = minimum 100 delagates, to exchange info
-exhibitions = to view product, 
+confrences = multiday event, to exchange info and discussion on spceific purpose
+exhibitions = to view product and to demonstrate your product in local or international market
+
+[[visiting freinds and relatives ( VFR )]]
+
+- usually for holidays or celebrations, such as marriag
