@@ -68,6 +68,8 @@ confrences mainly differinciate from exhibitions by purpose of event,
 confrences = multiday event, to exchange info and discussion on spceific purpose
 exhibitions = to view product and to demonstrate your product in local or international market
 
+
+
 [[visiting freinds and relatives ( VFR )]]
 
 - usually for holidays or celebrations, such as marriages or just plain recreation

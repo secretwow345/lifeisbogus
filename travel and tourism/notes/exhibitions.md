@@ -1,1 +1,0 @@
-- involves the bringing toegther of people for the purpose of viewing products and services

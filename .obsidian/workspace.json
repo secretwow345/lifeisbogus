@@ -25,14 +25,17 @@
             "id": "2d114b451bb044cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "travel and tourism/notes/exhibitions.md",
-                "mode": "source",
-                "source": false
+                "file": "travel and tourism/types of business tourism/different forms of business tourism.canvas",
+                "viewState": {
+                  "x": 59.45204151041093,
+                  "y": 434.64807067988886,
+                  "zoom": -0.5880623182654382
+                }
               },
-              "icon": "lucide-file",
-              "title": "exhibitions"
+              "icon": "lucide-layout-dashboard",
+              "title": "different forms of business tourism"
             }
           }
         ],
@@ -212,21 +215,22 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2d114b451bb044cd",
+  "active": "ea1fe5e17cfcfd72",
   "lastOpenFiles": [
+    "travel and tourism/types of business tourism/Meetings.md",
+    "travel and tourism/types of business tourism/different forms of business tourism.canvas",
     "travel and tourism/notes/travel and tourism, notes.md",
-    "travel and tourism/notes/exhibitions.md",
-    "travel and tourism/types of business tourism",
-    "travel and tourism/types of business tourism/confrences.md",
+    "travel and tourism/notes/types of tourist.canvas",
     "travel and tourism/types of business tourism/Incentives.md",
+    "travel and tourism/types of business tourism/exhibitions.md",
+    "travel and tourism/types of business tourism/confrences.md",
+    "travel and tourism/types of business tourism",
     "IMG_7.md",
     "types of business tourist",
-    "travel and tourism/types of business tourism/Meetings.md",
     "travel and tourism/general terms/leisure tourists.md",
     "travel and tourism/general terms/business tourists.md",
     "travel and tourism/general terms/domestic tourism.md",
     "travel and tourism/general terms",
-    "travel and tourism/notes/types of tourist.canvas",
     "travel and tourism/notes",
     "Plan as of now.md",
     "media/v24044gl0000d3rv48vog65kf3ao02kg 2.mp4",
@@ -251,7 +255,6 @@
     "economics/micro economics/money and banking/banks.md",
     "economics/general terms/economics.md",
     "economics/general terms/scarcity.md",
-    "economics/general terms/economic goods.md",
     "economics/micro economics/money and banking",
     "economics/micro economics/money and banking/money",
     "economics/economics mindmap/economics mindmap.canvas",
