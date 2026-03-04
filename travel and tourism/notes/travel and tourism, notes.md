@@ -50,17 +50,17 @@ I - incentives
 C - conferences
 E - Exhibitions
 
-Meetings ; 
+[[Meetings]] ; 
 - events designed to bring people together so they can exchange information, either from companies and organizations
 
-Incentives ; 
+[[Incentives]] ; 
 - includes travel to a foreign country or domestically for the motivational purpose to increase or reward for the employee preformance or effort, 
 its leisure tourism for celebrations of hard working emplopyees
 
-confrences ;
+[[confrences ]];
 - multi day events having atleast 100 delagates attending for the purpose of exchanging information or discussion
 
-exhibitions ; 
+[[exhibitions]] ; 
 - involves the bringing toegther of people for the purpose of viewing products and services
 
 confrences mainly differinciate from exhibitions by purpose of event, 

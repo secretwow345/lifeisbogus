@@ -1,0 +1,2 @@
+- includes travel to a foreign country or domestically for the motivational purpose to increase or reward for the employee preformance or effort, 
+its leisure tourism for celebrations of hard working emplopyees
