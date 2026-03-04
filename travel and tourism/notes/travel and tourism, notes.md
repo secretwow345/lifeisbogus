@@ -74,4 +74,14 @@ exhibitions = to view product and to demonstrate your product in local or intern
 
 - usually for holidays or celebrations, such as marriages or just plain recreation
 
-TRANSFER THIS WHEN YOU GET HOME, DO HOMEWORK
+
+other specialized purposes of travel may include : 
+- pilgrimages or other religious journeys 
+- sports events, such as football games , grandprix, wtc
+- medical health visits, can be surgery for a dire cause
+- educational trips to study centres
+
+what is the purpose of the travel and tourism industry?
+
+- to help businesses find 
+
