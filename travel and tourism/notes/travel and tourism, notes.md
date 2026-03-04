@@ -86,5 +86,9 @@ what is the purpose of the travel and tourism industry?
 - to help businesses find what to cater to; this can return mutual aid to agencies, to serve the needs of people who travel.
 
 ----> some do this directly with airlines, bus companies, hotels and holiday agencies
--> and some do this indirectly 
+-> and some do this indirectly , advertising agencies, consultants and government bodies
+
+the travel and tourism industry is made up of various sub sectors including travel agents, transportation, attractions, accomodation and catering, tourist information and guiding services, and tour operators.
+
+- the presence of these sub sectors determines the characteristics of 
 
