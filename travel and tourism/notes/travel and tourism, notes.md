@@ -47,5 +47,11 @@ this acronym stands for :
 
 M - meetings
 I - incentives
-C - confrences
-E - Ex
+C - conferences
+E - Exhibitions
+
+Meetings ; 
+- events designed to bring people together so they can exchange information, either from companies and organizations
+
+Incentives ; 
+- includes travel to a foreign country or domestically for the motivational purpose to increase or reward for the employee preformance or effort
