@@ -37,4 +37,15 @@ tourists can be seperated into multiple categories
 
 [[leisure tourists]]
 
-- are people
+- are people who are visiting somewhere for pleasure
+
+[[business tourists]]
+
+- are people who are visiting for business reasons
+there are multiple forms of business tourism; known as MICE
+this acronym stands for :
+
+M - meetings
+I - incentives
+C - confrences
+E - Ex
