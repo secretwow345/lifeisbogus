@@ -1,6 +1,25 @@
 {
 	"nodes":[
-		{"id":"d0d8ae710a62ab81","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"travel and tourism\n(sub)"}
+		{"id":"7844c0efb2c7e3a7","x":-560,"y":120,"width":250,"height":60,"type":"text","text":"[[travel agents]]"},
+		{"id":"061c6a1402378263","x":-280,"y":120,"width":250,"height":60,"type":"text","text":"[[accommodation providers]]"},
+		{"id":"5533da6341998886","x":0,"y":120,"width":250,"height":60,"type":"text","text":"[[transport providers]]"},
+		{"id":"295dce622001197c","x":300,"y":120,"width":250,"height":60,"type":"text","text":"[[Entertainment venues]]"},
+		{"id":"18f98267580591b7","x":580,"y":120,"width":250,"height":60,"type":"text","text":"[[ancillary services]]"},
+		{"id":"d0d8ae710a62ab81","x":0,"y":-20,"width":250,"height":60,"type":"text","text":"travel and tourism\n( sub sectors )"},
+		{"id":"73accf746282cc30","x":-405,"y":242,"width":250,"height":60,"type":"text","text":"[[tour operators]]"},
+		{"id":"d565dcaa9164fd24","x":-125,"y":242,"width":250,"height":60,"type":"text","text":"[[catering outlet]]"},
+		{"id":"336a97324b40f557","x":175,"y":242,"width":250,"height":60,"type":"text","text":"[[attractions]]"},
+		{"id":"55f26c0d9f98c332","x":500,"y":242,"width":250,"height":60,"type":"text","text":"[[information and guiding services]]"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"669490224f3294cd","fromNode":"7844c0efb2c7e3a7","fromSide":"top","toNode":"d0d8ae710a62ab81","toSide":"bottom"},
+		{"id":"36be15770d8f02de","fromNode":"061c6a1402378263","fromSide":"top","toNode":"d0d8ae710a62ab81","toSide":"bottom"},
+		{"id":"697f124490e35eaf","fromNode":"5533da6341998886","fromSide":"top","toNode":"d0d8ae710a62ab81","toSide":"bottom"},
+		{"id":"3ac0aabf2b703d77","fromNode":"295dce622001197c","fromSide":"top","toNode":"d0d8ae710a62ab81","toSide":"bottom"},
+		{"id":"a54c4bb74d7196ef","fromNode":"18f98267580591b7","fromSide":"top","toNode":"d0d8ae710a62ab81","toSide":"bottom"},
+		{"id":"2d37d962656997e9","fromNode":"73accf746282cc30","fromSide":"top","toNode":"d0d8ae710a62ab81","toSide":"bottom"},
+		{"id":"94a941e34dcaa36f","fromNode":"d565dcaa9164fd24","fromSide":"top","toNode":"d0d8ae710a62ab81","toSide":"bottom"},
+		{"id":"e11bde6d205a836e","fromNode":"336a97324b40f557","fromSide":"top","toNode":"d0d8ae710a62ab81","toSide":"bottom"},
+		{"id":"3969657201d88108","fromNode":"55f26c0d9f98c332","fromSide":"top","toNode":"d0d8ae710a62ab81","toSide":"bottom"}
+	]
 }
