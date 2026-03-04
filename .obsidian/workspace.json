@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "travel and tourism/general terms/business tourists.md",
+                "file": "travel and tourism/notes/travel and tourism, notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "business tourists"
+              "title": "travel and tourism, notes"
             }
           }
         ],
@@ -87,16 +87,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "9baede01b51fdb59",
-            "type": "leaf",
-            "state": {
-              "type": "tagfolder-view",
-              "state": {},
-              "icon": "stacked-levels",
-              "title": "Tag Folder"
             }
           }
         ]
@@ -226,6 +216,7 @@
   "lastOpenFiles": [
     "travel and tourism/general terms/leisure tourists.md",
     "travel and tourism/general terms/business tourists.md",
+    "travel and tourism/general terms/domestic tourism.md",
     "travel and tourism/notes/travel and tourism, notes.md",
     "travel and tourism/general terms",
     "travel and tourism/notes/types of tourist.canvas",
@@ -259,7 +250,6 @@
     "economics/micro economics/money and banking/the important roles of central banks.md",
     "economics/general terms/micro economic decision makers.md",
     "economics/micro economics/money and banking/money/what are the characteristics of good money?.md",
-    "economics/micro economics/money and banking/money/what are the issues with the barter system ?.md",
     "economics/micro economics/money and banking",
     "economics/micro economics/money and banking/money",
     "economics/economics mindmap/economics mindmap.canvas",

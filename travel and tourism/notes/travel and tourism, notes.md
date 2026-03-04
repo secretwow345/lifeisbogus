@@ -14,17 +14,17 @@ there are three types of tourism ;
 - inbound tourism
 - outbound tourism
 
-[[what is domestic tourism]]?
+what is [[domestic tourism]]?
 
 Travelling in between  within their own country, usually in holidays, short breaks, and day trips like events
 
-[[what is outbound tourism]]?
+what is [[outbound tourism]]?
 
 when people leave or travel away from their home country to other countries for leasure time or visiting family
 
 **outbound = travelling OUT of the home country to visit other countries**
 
-[[what is inbound tourism]]?
+what is [[inbound tourism]]?
 
 when people enter a country for holiday or other purposes
 
