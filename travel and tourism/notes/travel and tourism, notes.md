@@ -20,4 +20,14 @@ Travelling in between  within their own country, usually in holidays, short brea
 
 [[what is outbound tourism]]?
 
-when people leave or travel away from
+when people leave or travel away from their home country to other countries for leasure time or visiting family
+
+**outbound = travelling OUT of the home country to visit other countries**
+
+[[what is inbound tourism]]?
+
+when people enter a country for holiday or other purposes
+
+**inbound = travelling IN a new country seperete from your home country**
+
+
