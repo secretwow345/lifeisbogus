@@ -92,5 +92,16 @@ additional money that is paid by loan taker, on top of the loan given
 
 ### what is the stock market?
 
-[[the stock market]] is the global market of the selling or secondhand [[stocks]] and shares
+[[the stock market]] is the global market of the selling or secondhand [[stocks]] and [[shares]]
 
+### types of shares and stocks
+
+
+1. common stocks and ordinary shares or equity shares
+2. preffered stocks or preffered shares
+3. government stocks or government bond
+
+
+this connects to the [[stock exchange]] ,
+
+the [[stock exchange]] , or bourse is 
