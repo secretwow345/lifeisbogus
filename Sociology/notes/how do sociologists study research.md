@@ -26,4 +26,6 @@ example : to explore if new tech is helping or destroying the youth
 
 3.  formulating a hypothesis
 
-while not there in every research study, in most research studies they do a hypothesis. which is a testable statem
+while not there in every research study, in most research studies they do a hypothesis. which is a testable statement predicting relationships between variables
+
+example :
