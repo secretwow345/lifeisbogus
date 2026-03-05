@@ -48,4 +48,12 @@ there are two different types of banks
 
 a [[non-profit]]-making money cooperative whose members can borrow from pooled deposits at low interest rates.
 
-- [[mutual societies]]
+- mutual societies
+
+similar to [[credit unions]], these provide specialised financial services in lending loan for short term and long term by pledging and mortgaging for small groups 
+
+- investment banks
+
+specialized financial services for helping large business organizations raise finance fomr the stock market
+
+- is
