@@ -29,3 +29,5 @@ example : to explore if new tech is helping or destroying the youth
 while not there in every research study, in most research studies they do a hypothesis. which is a testable statement predicting relationships between variables
 
 example :
+
+4. 
