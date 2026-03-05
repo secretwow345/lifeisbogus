@@ -48,12 +48,27 @@ there are two different types of banks
 
 a [[non-profit]]-making money cooperative whose members can borrow from pooled deposits at low interest rates.
 
+--- 
+
 - mutual societies
 
 similar to [[credit unions]], these provide specialised financial services in lending loan for short term and long term by pledging and mortgaging for small groups 
+
+--- 
 
 - investment banks
 
 specialized financial services for helping large business organizations raise finance fomr the stock market
 
-- is
+---
+
+- islamic banks
+
+providing specialized banking and financial services, similar to commercial banks but they do not collect interest as it goes against islamic sharia law
+
+other financial institutions include, insurance companies, pension fund organizations and mergers unit trust companies
+
+
+### what is a financial institution?
+
+it provides financial services to consumer, firms and government to help them save, borrow and invest money 
