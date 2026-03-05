@@ -14,4 +14,14 @@ sociology follows a series of well designed steps to ensure reliability and sign
 
 1 . selection of topic
 
-first you need to choose the topic
+first you need to choose the topic, subject can be based on , sociological significance, personal interest or societal needs
+
+example : studies on the impact of technology to the modern youth
+
+2 . aims and objectives
+
+setting clear goals to achieve for this study
+
+example : to explore if new tech is helping or destroying the youth
+
+3
