@@ -1,11 +1,11 @@
 #economics #microeconomics 
 
 
-[[what is money?]]
+![[what is money?]]
 
 
 
-[[what are the characteristics of good money?]]
+![[what are the characteristics of good money?]]
 
 
 before the use of money, people used the barter system.
@@ -28,10 +28,20 @@ this is the oldest system that used to exchange goods (or) services for another 
 
 6 - store of value , 
 
-7 - [[deffered payment]]
+7 - ![[deffered payment]]
+
+there are two different types of banks
+
+[[central banks]] and [[commercial banks]]
+
+### what are central banks
+
+[[central banks]] are a banking system made by the [[government]] to play a vital role in maintaining financial stability for the nation
 
 ### what is commercial banks?
 
 [[commercial banks]] or well known banking system with retail branches found in main location and modern shopping center to provide all financial services and internet banking for the people and business
+
+
 
 
