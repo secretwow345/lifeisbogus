@@ -86,3 +86,11 @@ additional money that is paid by loan taker, on top of the loan given
 
 1kwd loan, i ask for 1.5kd in return, 0.5 kd interest
 
+### what is money supply in an economy
+
+[[money supply]] is the rotation and circulation of paper notes and coins in bank deposits
+
+### what is the stock market?
+
+[[the stock market]] is the global market of the selling or secondhand [[stocks]] and shares
+
