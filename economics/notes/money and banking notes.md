@@ -104,4 +104,4 @@ additional money that is paid by loan taker, on top of the loan given
 
 this connects to the [[stock exchange]] ,
 
-the [[stock exchange]] , or bourse is a market where particular companies stock or shares are shown to be bought, this can be seen in the new york stock exchange where stocks are shown to possible investors, often from 
+the [[stock exchange]] , or bourse is a market where particular companies stock or shares are shown to be bought, this can be seen in the new york stock exchange where stocks are shown to possible investors, often from a stock broker. ( GOOGLE THIS LATER )
