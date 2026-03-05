@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economics/micro economics/money and banking/commercial banks.md",
+                "file": "economics/micro economics/money and banking/credit unions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "commercial banks"
+              "title": "credit unions"
             }
           }
         ],
@@ -226,11 +226,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d6525f87452d72cc",
+  "active": "ea1fe5e17cfcfd72",
   "lastOpenFiles": [
     "economics/notes/money and banking notes.md",
-    "economics/micro economics/money and banking/central banks.md",
+    "economics/micro economics/money and banking/credit unions.md",
     "economics/micro economics/money and banking/commercial banks.md",
+    "economics/micro economics/money and banking/central banks.md",
     "economics/notes/money and banking 1.md",
     "economics/micro economics/money and banking/money and banking.md",
     "economics/micro economics/money and banking/regulate the banking industry.md",
@@ -268,7 +269,6 @@
     "business/notes",
     "ict",
     "testoiojsoidjeowijoieijr.md",
-    "testing man man.md",
     "economics/micro economics/money and banking",
     "economics/micro economics/money and banking/money",
     "economics/economics mindmap/economics mindmap.canvas",

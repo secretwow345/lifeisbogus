@@ -10,5 +10,3 @@ key functions of commercial banks include :
 - buying and selling shares
 - providing insurance cover
 
-
-

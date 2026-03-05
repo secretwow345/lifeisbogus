@@ -42,6 +42,10 @@ there are two different types of banks
 
 [[commercial banks]] or well known banking system with retail branches found in main location and modern shopping center to provide all financial services and internet banking for the people and business
 
+### other financial institutions
 
+- [[credit unions]]
 
+a [[non-profit]]-making money cooperative whose members can borrow from pooled deposits at low interest rates.
 
+- [[mutual societies]]
