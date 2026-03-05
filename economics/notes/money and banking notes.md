@@ -71,4 +71,13 @@ other financial institutions include, insurance companies, pension fund organiza
 
 ### what is a financial institution?
 
-it provides financial services to consumer, firms and government to help them save, borrow and invest money 
+it provides financial services to consumer, firms and government to help them save, borrow and invest money for specific purpose
+
+i.e. commericial banks , other financial instituions
+
+**the main difference between commercial banks and financial institutions are** :
+banks are large networks for large scale financial services while financial institutions are more smaller scale as they are made by societies and people 
+
+### what is interest rate?
+
+interest rate is set up by the central bank that follows commercial banks for lending loans or accepting saving deposits and other financial accounts
