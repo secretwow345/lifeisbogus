@@ -39,17 +39,14 @@
             "id": "d6525f87452d72cc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "travel and tourism/types of tourist.canvas",
-                "viewState": {
-                  "x": 45,
-                  "y": 110,
-                  "zoom": -0.8182250072765219
-                }
+                "file": "travel and tourism/notes/travel and tourism, notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "types of tourist"
+              "icon": "lucide-file",
+              "title": "travel and tourism, notes"
             }
           }
         ],
@@ -231,6 +228,7 @@
   },
   "active": "d6525f87452d72cc",
   "lastOpenFiles": [
+    "travel and tourism/types of tourist.canvas",
     "travel and tourism/notes/travel and tourism, notes.md",
     "travel and tourism/general terms/leisure tourists.md",
     "travel and tourism/general terms/domestic tourism.md",
@@ -248,7 +246,6 @@
     "business/production.md",
     "travel and tourism/general terms/visiting freinds and relatives ( VFR ).md",
     "travel and tourism/sub sectors of travel and tourism/sub sectors of travel and tourism.canvas",
-    "travel and tourism/types of tourist.canvas",
     "travel and tourism/notes/Untitled.md",
     "travel and tourism/sub sectors of travel and tourism",
     "travel and tourism/types of business tourism/different forms of business tourism.canvas",
@@ -271,7 +268,6 @@
     "ict/Ict.md",
     "business/notes",
     "ict",
-    "testoiojsoidjeowijoieijr.md",
     "economics/micro economics/money and banking",
     "economics/micro economics/money and banking/money",
     "economics/economics mindmap/economics mindmap.canvas",
