@@ -82,7 +82,7 @@ other specialized purposes of travel may include :
 - medical health visits, can be surgery for a dire cause
 - educational trips to study centres
 
-what is the purpose of the travel and tourism industry?
+what is the purpose of the [[travel and tourism industry]]?
 
 - to help businesses find what to cater to; this can return mutual aid to agencies, to serve the needs of people who travel.
 

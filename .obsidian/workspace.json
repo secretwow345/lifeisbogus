@@ -39,17 +39,14 @@
             "id": "d6525f87452d72cc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "travel and tourism/sub sectors of travel and tourism/sub sectors of travel and tourism.canvas",
-                "viewState": {
-                  "x": 410.61377267191665,
-                  "y": 234.96972337549107,
-                  "zoom": -0.7047808437011911
-                }
+                "file": "travel and tourism/notes/travel and tourism industry.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "sub sectors of travel and tourism"
+              "icon": "lucide-file",
+              "title": "travel and tourism industry"
             }
           }
         ],
@@ -232,6 +229,9 @@
   "active": "d6525f87452d72cc",
   "lastOpenFiles": [
     "travel and tourism/notes/travel and tourism, notes.md",
+    "travel and tourism/notes/travel and tourism industry.md",
+    "travel and tourism/general terms/visiting freinds and relatives ( VFR ).md",
+    "travel and tourism/sub sectors of travel and tourism/sub sectors of travel and tourism.canvas",
     "travel and tourism/types of tourist.canvas",
     "travel and tourism/general terms/leisure tourists.md",
     "travel and tourism/general terms/domestic tourism.md",
@@ -247,8 +247,6 @@
     "Sociology/notes/how do sociologists study research.md",
     "business/how to choose  your production methods.md",
     "business/production.md",
-    "travel and tourism/general terms/visiting freinds and relatives ( VFR ).md",
-    "travel and tourism/sub sectors of travel and tourism/sub sectors of travel and tourism.canvas",
     "travel and tourism/notes/Untitled.md",
     "travel and tourism/sub sectors of travel and tourism",
     "travel and tourism/types of business tourism/different forms of business tourism.canvas",
