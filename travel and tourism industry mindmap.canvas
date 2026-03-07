@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"9b099b9fb564fb93","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"t n t"},
+		{"id":"83ed128675ba55bc","x":-125,"y":80,"width":250,"height":60,"type":"text","text":"industry"},
+		{"id":"bdc897d83a9df39e","x":-148,"y":252,"width":250,"height":60,"type":"text","text":"business and "}
+	],
+	"edges":[
+		{"id":"5617af98fb109149","fromNode":"9b099b9fb564fb93","fromSide":"bottom","toNode":"83ed128675ba55bc","toSide":"top"}
+	]
+}
