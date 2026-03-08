@@ -12,3 +12,8 @@ responsive ( price elastic ) being : >1
 
 unresponsive ( price inelastic ) being : <1
 
+think of elasticity as being a weight on a elastic band, with the same weight you could put it on two separate bands, this portrays elasticity
+
+with the first band, it stretches more with the weight, this means it is more elastic. same thing could apply to PED
+
+with the other band, 
