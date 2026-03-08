@@ -23,10 +23,11 @@ with the other band, using the same weight as before, it stretches less so. this
 
 but what if the change in price causes no change in demand?
 
-this causes a perfectly inelastic demand curve
+this causes a perfectly inelastic demand curve 
 
+![](https://cdn.corporatefinanceinstitute.com/assets/Screen-Shot-2017-06-22-at-8.00.39-PM.png)
 
-
+main difference between the two is inelesstic 
 
 
 ### Calculation of PED
