@@ -20,6 +20,15 @@ with the other band, using the same weight as before, it stretches less so. this
 
 ### **Price elasticity of demand reveals how responsive the change in quantity demanded is to a change in price**
 
+
+but what if the change in price causes no change in demand?
+
+this causes a perfectly inelastic demand curve
+
+
+
+
+
 ### Calculation of PED
 
 - **PED can be calculated** using the following formula:
