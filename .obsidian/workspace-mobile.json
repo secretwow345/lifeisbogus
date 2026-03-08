@@ -105,8 +105,8 @@
         "state": {
           "type": "tagfolder-view",
           "state": {},
-          "icon": "stacked-levels",
-          "title": "Tag Folder"
+          "icon": "lucide-ghost",
+          "title": "tagfolder-view"
         }
       }
     ],
