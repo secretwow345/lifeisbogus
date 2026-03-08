@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-03-07.md",
+                "file": "economics/notes/Price elasticity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-07"
+              "title": "Price elasticity"
             }
           }
         ]
@@ -98,19 +98,9 @@
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
-      },
-      {
-        "id": "e81aa2750d8ba86c",
-        "type": "leaf",
-        "state": {
-          "type": "tagfolder-view",
-          "state": {},
-          "icon": "lucide-ghost",
-          "title": "tagfolder-view"
-        }
       }
     ],
-    "currentTab": 5
+    "currentTab": 0
   },
   "right": {
     "id": "490c4eaeab166eec",
