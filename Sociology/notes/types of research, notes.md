@@ -88,8 +88,13 @@ examples of focus groups in sociology :
 
 in most primary research methods, often times there are interferances with research
 
-firstly there may be a [[bias]] in research 
+common types of research methods include
 
+![[bias]]
+
+![[Hawthornes effect]]
+
+[[interviewers effect]]
 
 
 2- secondary research
