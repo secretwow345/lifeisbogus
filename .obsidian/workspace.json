@@ -86,12 +86,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "business/how to choose  your production methods.md",
+                "file": "Sociology/notes/Longitudinal studies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "how to choose  your production methods"
+              "title": "Longitudinal studies"
             }
           }
         ],
@@ -115,7 +115,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -273,14 +273,15 @@
   },
   "active": "43af22f326eeee07",
   "lastOpenFiles": [
+    "Sociology/notes/how do sociologists study research.md",
+    "Sociology/general terms/Hawthornes effect.md",
+    "Sociology/general terms/postivism and interpretivism.md",
+    "business/how to choose  your production methods.md",
     "business/location decisions.md",
     "business/business location.canvas",
-    "business/how to choose  your production methods.md",
     "business/production.md",
     "Sociology/general terms/overt.md",
-    "Sociology/general terms/postivism and interpretivism.md",
     "Sociology/notes/types of research, notes.md",
-    "Sociology/notes/how do sociologists study research.md",
     "Sociology/general terms/interviewers effect.md",
     "Sociology/notes/Longitudinal studies.md",
     "Sociology/general terms/bias.md",
