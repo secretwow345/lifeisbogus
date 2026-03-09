@@ -96,6 +96,13 @@ common types of research methods include
 
 ![[interviewers effect]]
 
+[[interview bias]]
+
+[[reseacher imposition]]
+
+[[sampling bias]]
+
+[[gender/ethic bias]]
 
 2- secondary research
 
