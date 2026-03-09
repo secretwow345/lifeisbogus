@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"a417e730f3f63fd3","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"types of "}
+		{"id":"da7f97e209e0faba","x":-340,"y":-30,"width":250,"height":60,"type":"text","text":"primary research"},
+		{"id":"73180fe6883b1ef7","x":40,"y":-30,"width":250,"height":60,"type":"text","text":"secondary research"},
+		{"id":"a417e730f3f63fd3","x":-140,"y":-180,"width":250,"height":60,"type":"text","text":"types of research"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"d8eeeebaaf79c886","fromNode":"da7f97e209e0faba","fromSide":"top","toNode":"a417e730f3f63fd3","toSide":"bottom"},
+		{"id":"de6dc3246b67eafb","fromNode":"73180fe6883b1ef7","fromSide":"top","toNode":"a417e730f3f63fd3","toSide":"bottom"}
+	]
 }
