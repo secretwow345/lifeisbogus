@@ -19,3 +19,12 @@ interviews, questionaires etc can all be under the term 'longitdunal reasearch' 
 
 ### strengths and weaknesses to longitudinal research
 
+- alot of research has issues with only showing a small period of time . almost like a a ' snapshot ' of things. Longitudinal reseatrch shows a **very valid and very reliable method of data collection**.
+
+( high validity)
+
+- this method of data collection shows a long term picture of how people change.
+
+( track social change)
+
+
