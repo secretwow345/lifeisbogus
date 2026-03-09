@@ -127,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#socialism",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -273,8 +273,9 @@
   },
   "active": "43af22f326eeee07",
   "lastOpenFiles": [
-    "business/how to choose  your production methods.md",
+    "business/business location.canvas",
     "business/location decisions.md",
+    "business/how to choose  your production methods.md",
     "business/production.md",
     "Sociology/general terms/overt.md",
     "Sociology/general terms/postivism and interpretivism.md",
@@ -304,7 +305,6 @@
     "travel and tourism/general terms/domestic tourism.md",
     "economics/micro economics/money and banking/credit unions.md",
     "economics/micro economics/money and banking/commercial banks.md",
-    "economics/micro economics/money and banking/central banks.md",
     "travel and tourism/sub sectors of travel and tourism",
     "travel and tourism/types of business tourism/different forms of business tourism.canvas",
     "travel and tourism/types of business tourism",

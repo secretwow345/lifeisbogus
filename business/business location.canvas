@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"d02fc3eb59f80c5a","x":-300,"y":-80,"width":220,"height":60,"type":"text","text":"manufacturing business"},
+		{"id":"36a452f17adabd06","x":70,"y":-80,"width":250,"height":60,"type":"text","text":"servicing"},
+		{"id":"1b68b35e30133e96","x":-60,"y":0,"width":130,"height":50,"type":"text","text":"retailing"},
+		{"id":"175620d58e442240","x":-120,"y":-200,"width":250,"height":50,"type":"text","text":"location decision"}
+	],
+	"edges":[
+		{"id":"d1d5b28845c61679","fromNode":"d02fc3eb59f80c5a","fromSide":"top","toNode":"175620d58e442240","toSide":"bottom"},
+		{"id":"a93aa67847d89b1d","fromNode":"1b68b35e30133e96","fromSide":"top","toNode":"175620d58e442240","toSide":"bottom"},
+		{"id":"1fb39c4a54e0e40b","fromNode":"175620d58e442240","fromSide":"bottom","toNode":"36a452f17adabd06","toSide":"top"},
+		{"id":"2efabb7ece8dd885","fromNode":"175620d58e442240","fromSide":"bottom","toNode":"1b68b35e30133e96","toSide":"top"},
+		{"id":"d1fc728787eee566","fromNode":"175620d58e442240","fromSide":"bottom","toNode":"d02fc3eb59f80c5a","toSide":"top"}
+	]
+}

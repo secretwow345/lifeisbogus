@@ -1,5 +1,5 @@
 ---
 tags:
   - business
-  - chapter-4
+  - chapter4-bus
 ---
