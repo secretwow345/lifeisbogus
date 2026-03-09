@@ -20,6 +20,24 @@ there are 3 types of factors to be took apart in with choosing business location
 
 1. Manufacturing (mfg)
 location of business designated for the [[production]] of goods
+e.g. shoe production , hp computer production
 
 2. retail 
-buying and selling the same product being made in mfg
+buying and selling the same product being made in mfg locations.
+lulu hypermarket, adidas retail store
+
+3. services
+providing valid services for the people and businesses 
+e.g. mcdonalds, resturants in general
+
+### main factors to look for in retail businesses
+
+- shoppers : there has to be alot of people in that area, walking or living
+- nearby : locate your businesses near places people frequent, e.g. schools 
+- parking facilitaties nearby : to let shoppers park freely
+- security/crime in area : in case of a robbery or crimes occuring
+- **rent of premises** (applies to services and mfg)
+- Govt policy on taxes
+- Govt support on small business
+- high employment and GDP
+- 
