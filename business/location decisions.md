@@ -40,4 +40,15 @@ e.g. mcdonalds, resturants in general
 - Govt policy on taxes
 - Govt support on small business
 - high employment and GDP
-- 
+
+### main factors to look for in service business 
+
+*retail factors apply to service businesses,,,
+
+- customers : be near customers for a quick responce time ( electrician located in residential areas. )
+- labour : availability of suitably skilled in area
+- technology : e.g. talabat or online stores
+- persongal preference of the owner to select location
+- transport availability 
+
+RELOLATE THE BUSINESS,, SEE PAPER 'LOCATION DECISIONS'
