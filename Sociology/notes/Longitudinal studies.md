@@ -14,5 +14,8 @@ Longitudinal studies, or longitudinal research, is the research of the same subj
 
 4. collect more in depth data over time from the peoples living style, hence the name "longitudinal"
 
+
+interviews, questionaires etc can all be under the term 'longitdunal reasearch' if they are done under a continuous period of time
+
 ### strengths and weaknesses to longitudinal research
 
