@@ -38,3 +38,10 @@ Escaping samsara is the only option for me, ascension is key
 Artists to lab with : 
 
 https://www.instagram.com/twinbalencis?igsh=aG5lamZxMWN2bWh6
+
+Side street visuals,,, make a tt wit them ;
+
+1-scripted one , “ gay son or thought daughter” n i would js reply with something abt samsara and escaping it, 
+“This life you people live, it only ends in suffering, youre stuck in an endless loop of pain , sustaining on attachment, you live off of short term happiness. And follow it while ignoring your inner shadow,
+
+2-unscripted 
