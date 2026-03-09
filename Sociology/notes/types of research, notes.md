@@ -94,7 +94,7 @@ common types of research methods include
 
 ![[Hawthornes effect]]
 
-[[interviewers effect]]
+![[interviewers effect]]
 
 
 2- secondary research
