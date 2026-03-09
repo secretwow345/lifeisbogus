@@ -6,10 +6,13 @@ Longitudinal studies, or longitudinal research, is the research of the same subj
 
 ### methods of collecting the data
 
-first, you must collect the sample data. that is used each time for the purpose longitudinal studies.
+1. you must collect the sample data. that is used each time for the purpose longitudinal studies.
 
-secondly, collect group of people or household data for the panels sample of members
+2.  collect group of people known as panels sample members
 
-thirdly, panel sample members should be interviewed or complete quesitonare according to the timeframe on regular basis
+3.  panel sample members should be interviewed or complete quesitonare according to the timeframe on regular basis
 
+4. collect more in depth data over time from the peoples living style, hence the name "longitudinal"
+
+### strengths and weaknesses to longitudinal research
 
