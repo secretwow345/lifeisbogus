@@ -84,6 +84,16 @@ examples of focus groups in sociology :
 - media study : people discussing how old people are represented in current media
 - health study : cancer survivors talk about eachothers health after treatment and other mental aspects
 
---------------------- social activist
+--------------------- social activist ( google this later)
+
+in most primary research methods, often times there are interferances with research
+
+firstly there may be a [[bias]] in research 
+
+
 
 2- secondary research
+
+
+
+
