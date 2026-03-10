@@ -56,7 +56,7 @@ similar to [[credit unions]], these provide specialised financial services in le
 
 --- 
 
-- investment banks ( GOOGLE THIS LATER )
+- investment banks 
 
 specialized financial services for helping large business organizations raise finance fomr the stock market
 
@@ -78,7 +78,7 @@ i.e. commericial banks , other financial instituions
 **the main difference between commercial banks and financial institutions are** :
 banks are large networks for large scale financial services while financial institutions are more smaller scale as they are made by societies and people 
 
-### what is interest rate? ( GOOGLE THIS LATER )
+### what is interest rate? 
 
 interest rate is set up by the central bank that follows commercial banks for lending loans or accepting saving deposits and other financial accounts
 
