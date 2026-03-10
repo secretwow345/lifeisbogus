@@ -117,3 +117,14 @@ examples of secondary research :
 - peoples living standard
 - inflation and deflation
 - GDP
+
+one of the main characteristics of secondary data is official statistics
+
+### official statistics
+
+gathered by government forces, these statistics follow a positivist stucture and fall under two categories of statistics.
+
+- hard statistics.
+hard statistics are ironically, quite easy to calculate. they are completely accurate. and are collected by most countries and nations. things like births, marriages and deaths. it simply involves adding the total number 
+
+- soft statistics.
