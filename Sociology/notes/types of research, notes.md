@@ -134,3 +134,4 @@ on the other hand, soft statistics completely depend on the hands of the subject
 
 **soft stats = you can choose the outcome**
 
+CONTINUE ON THE PAGE WITH ANNE FRANK
