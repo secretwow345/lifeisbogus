@@ -125,6 +125,12 @@ one of the main characteristics of secondary data is official statistics
 gathered by government forces, these statistics follow a positivist stucture and fall under two categories of statistics.
 
 - hard statistics.
-hard statistics are ironically, quite easy to calculate. they are completely accurate. and are collected by most countries and nations. things like births, marriages and deaths. it simply involves adding the total number 
+hard statistics are ironically, quite easy to calculate. they are completely accurate. and are collected by most countries and nations. things like births, marriages and deaths. it simply involves adding the total number of data
 
 - soft statistics.
+on the other hand, soft statistics completely depend on the hands of the subject being studied. different decisions on behalf of the respondant could change results. things like unemployment rates. crimes and specific areas.
+
+**hard stats = out of your control**
+
+**soft stats = you can choose the outcome**
+
