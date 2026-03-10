@@ -4,6 +4,8 @@ tags:
   - microeconomics
   - money-and-banking
 ---
+### what is stock?
+
 stock = share 
 stock is the same as share
 
