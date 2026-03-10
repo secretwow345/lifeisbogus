@@ -128,12 +128,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economics/notes/households.md",
+                "file": "Sociology/notes/socio test paper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "households"
+              "title": "socio test paper"
             }
           }
         ],
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "economics/notes/households.md",
+                "file": "Sociology/notes/socio test paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for households"
+              "title": "Backlinks for socio test paper"
             }
           },
           {
@@ -315,8 +315,11 @@
   },
   "active": "90fc33329d2d9b92",
   "lastOpenFiles": [
-    "economics/notes/money and banking notes.md",
+    "Sociology/notes/types of research, notes.md",
+    "Sociology/general terms/interviewers effect.md",
+    "Sociology/general terms/Hawthornes effect.md",
     "economics/notes/households.md",
+    "economics/notes/money and banking notes.md",
     "Untitled",
     "iuyiuy",
     "economics/micro economics/money and banking/commercial banks.md",
@@ -324,7 +327,6 @@
     "economics/micro economics/difference between stock and share.md",
     "economics/notes/Price elasticity.md",
     "economics/general terms/stock exchange.md",
-    "Sociology/notes/types of research, notes.md",
     "Sociology/types of research/primary research/triangulation/triangulation.md",
     "Sociology/types of research/primary research/triangulation/strengths and weaknesses of triangulation.md",
     "Sociology/types of research/primary research/questionares/types of questionares/closed questions.md",
@@ -341,8 +343,6 @@
     "Sociology/types of research/primary research/observation method.md",
     "Sociology/notes/socio test paper.md",
     "economics/general terms/fund transfers.md",
-    "economics/general terms/economic goods.md",
-    "economics/general terms/economics.md",
     "economics/economics mindmap/economics mindmap.canvas",
     "business/business location.canvas",
     "Untitled.canvas",
