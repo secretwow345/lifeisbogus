@@ -114,12 +114,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economics/notes/difference between stock and share.md",
+                "file": "economics/notes/Price elasticity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "difference between stock and share"
+              "title": "Price elasticity"
             }
           }
         ],
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "economics/notes/difference between stock and share.md",
+                "file": "economics/notes/Price elasticity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for difference between stock and share"
+              "title": "Backlinks for Price elasticity"
             }
           },
           {
@@ -300,10 +300,10 @@
   },
   "active": "9a6b74c210e466a7",
   "lastOpenFiles": [
+    "economics/notes/money and banking notes.md",
+    "economics/notes/difference between stock and share.md",
     "economics/notes/Price elasticity.md",
     "economics/general terms/stock exchange.md",
-    "economics/notes/difference between stock and share.md",
-    "economics/notes/money and banking notes.md",
     "Sociology/notes/types of research, notes.md",
     "Sociology/types of research/primary research/triangulation/triangulation.md",
     "Sociology/types of research/primary research/triangulation/strengths and weaknesses of triangulation.md",
