@@ -100,12 +100,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sociology/notes/socio test paper.md",
+                "file": "Sociology/types of research/primary research/triangulation/triangulation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "socio test paper"
+              "title": "triangulation"
             }
           }
         ],
@@ -141,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "trian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2026-02-21.md",
+                "file": "Sociology/types of research/primary research/triangulation/triangulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-02-21"
+              "title": "Backlinks for triangulation"
             }
           },
           {
@@ -269,8 +269,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -287,9 +286,22 @@
   },
   "active": "7ad110b4d223be05",
   "lastOpenFiles": [
+    "Sociology/types of research/primary research/triangulation/strengths and weaknesses of triangulation.md",
+    "Sociology/types of research/primary research/questionares/types of questionares/closed questions.md",
+    "Sociology/types of research/primary research/questionares/types of questionares/unstructured questions.md",
+    "Sociology/types of research/primary research/questionares/types of questionares/telephone questions.md",
+    "Sociology/types of research/primary research/questionares/questionares.md",
+    "Sociology/types of research/primary research/interviews/types of interview.md",
+    "Sociology/types of research/primary research/interviews/interviews.md",
+    "Sociology/types of research/primary research/interviews/methods of interview/unstructured interview.md",
+    "Sociology/types of research/primary research/interviews/methods of interview/semi structured interview.md",
+    "Sociology/notes/methods of research data.md",
+    "Sociology/notes/Longitudinal studies.md",
     "Sociology/notes/types of research, notes.md",
-    "Sociology/notes/socio test paper.md",
+    "Sociology/types of research/primary research/triangulation/triangulation.md",
     "Sociology/types of research/primary research/primary research.md",
+    "Sociology/types of research/primary research/observation method.md",
+    "Sociology/notes/socio test paper.md",
     "economics/notes/stock exchange.md",
     "economics/notes/money and banking notes.md",
     "economics/notes/Price elasticity.md",
@@ -300,26 +312,13 @@
     "business/how to choose  your production methods.md",
     "business/production.md",
     "business/location decisions.md",
-    "Sociology/notes/Longitudinal studies.md",
     "Sociology/notes/how do sociologists study research.md",
-    "Sociology/general terms/Hawthornes effect.md",
-    "Sociology/general terms/postivism and interpretivism.md",
     "business/business location.canvas",
-    "Sociology/general terms/overt.md",
-    "Sociology/general terms/interviewers effect.md",
-    "Sociology/general terms/bias.md",
     "Untitled.canvas",
-    "Scrpt for punk japan.md",
-    "Random/Daily notes/2026-03-07.md",
-    "Random/Daily notes/2026-03-01.md",
-    "Random/Daily notes/2026-02-28.md",
-    "Random/Daily notes/2026-02-25.md",
     "Random/Daily notes",
     "Random",
     "travel and tourism/travel and tourism industry mindmap.canvas",
     "travel and tourism/types of tourist.canvas",
-    "travel and tourism/notes/travel and tourism industry.md",
-    "2026-03-07.md",
     "travel and tourism/general terms/sub sectors of travel and tourism.canvas",
     "travel and tourism/sub sectors of travel and tourism",
     "travel and tourism/types of business tourism/different forms of business tourism.canvas",

@@ -10,7 +10,7 @@
 
 (e) strengths : 
 - qualitive data will give a more detailed and accurate result
-- depending on the research method used, it can have more longevity 
+- depending on the research method used, it can have more longevity ,,,// gives a more holistic picture of data that a mere pattern couldnt show.
 limitations :
 - takes more time to collect data
 - researchers will have some form of bias while conducting research
