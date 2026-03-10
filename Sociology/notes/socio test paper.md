@@ -17,5 +17,9 @@ limitations :
 
 (f) interviewer effect can negatively harm how viable the research may be, often times things like sex, age, or nationality may effect how the interviewer percieves the responses, causing a change in the interview conversation
 
-(g) sampling choices can be very important in how the results and research could possibly turn out. often if you choose unwisely you w
+(g) sampling choices can be very important in how the results and research could possibly turn out. often if you choose unwisely you will most likely end up with a bias towards the group youre sampling in.
+
+
+
+
 
