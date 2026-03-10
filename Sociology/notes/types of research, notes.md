@@ -106,6 +106,9 @@ common types of research methods include
 
 2- [[secondary research]]
 
+unlike [[primary research]], secondary is mainly funded and collected by governments, for the important sociological and country economic purpose
 
-unlike [[primary research]], secondary is mainly funded and collected by 
+governments do this through different organizations, national state and national level, to plan future budget 
+examples of secondary research :
 
+- population data, sensus
