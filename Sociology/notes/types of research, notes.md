@@ -108,7 +108,12 @@ common types of research methods include
 
 unlike [[primary research]], secondary is mainly funded and collected by governments, for the important sociological and country economic purpose
 
-governments do this through different organizations, national state and national level, to plan future budget 
+governments do this through different organizations, national state and national level, to plan future budget such as proposed income and expenditure 
+
 examples of secondary research :
 
-- population data, sensus
+- population data
+- employment and unemployment
+- peoples living standard
+- inflation and deflation
+- GDP
