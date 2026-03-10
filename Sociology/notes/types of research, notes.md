@@ -104,8 +104,8 @@ common types of research methods include
 
 [[gender/ethic bias]]
 
-2- secondary research
+2- [[secondary research]]
 
 
-
+unlike [[primary research]], secondary is mainly funded and collected by 
 
