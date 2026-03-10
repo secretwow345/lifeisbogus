@@ -8,4 +8,7 @@
 
 (d) hawthornes effect, people may not even engage into the question causing not accurate anwsers
 
-(e)
+(e) strengths : 
+- qualitive data will give a more detailed and accurate result
+- depending on the research method used, it can have more longevity 
+limi
