@@ -33,3 +33,6 @@ In target frame, an underscore must be used for it to work. After the underscore
 Questions often ask fir a new window named .. blank.  Thus js how you go by it
 
 -hyperlink—edithyperlink—targetframe— and so on
+
+
+You calculate income by using vlookup
