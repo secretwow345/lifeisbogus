@@ -34,7 +34,7 @@ when people enter a country for holiday or other purposes
 tourists can be seperated into multiple categories 
 
 [[types of tourist.canvas]]
-
+![[types of tourist.canvas]]
 
 [[leisure tourists]]
 
