@@ -23,3 +23,14 @@ limitations :
 
 
 
+
+
+
+
+test paper 2
+
+1a ; cohabiting and married partnerships
+
+1b ; by careful selection
+
+1c ; 
