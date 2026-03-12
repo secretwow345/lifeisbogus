@@ -134,4 +134,4 @@ on the other hand, soft statistics completely depend on the hands of the subject
 
 **soft stats = you can choose the outcome**
 
-CONTINUE ON THE PAGE WITH ANNE FRANK
+another form of secondary data is **historical or personal documents**
