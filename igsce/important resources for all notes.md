@@ -6,3 +6,7 @@ business :
 https://igcseaid.com/notes/business-studies-0450/
 
 economics :
+
+
+sociology :
+https://www.learnedguys.com/uploads/files/248/Sociology%20O%20level%20notes%20by%20Shahraiz%20Chishti%20Greenhall.pdf
