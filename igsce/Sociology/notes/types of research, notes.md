@@ -166,5 +166,7 @@ government and other official organisations share many types of immediate docume
 
 including, old famous magazines, peoples styles of wearing, etc
 
-### other types of documents for
+### other types of documents for sociological research
+
+wills, shopping lists, household accounts and many other stuff can be used for research ; though it is not confined to documents. this includes photo and video also.
 
