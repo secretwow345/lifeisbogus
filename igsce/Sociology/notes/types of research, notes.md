@@ -152,4 +152,19 @@ to show how famous people used to act during their past life.
 
 ### autobiographies 
 
-another form of secondary information, autobiographies are written in depth descriptions of famous people that would de
+another form of secondary information, autobiographies are written in depth descriptions of famous people that would describe how their life was during a certain period of time. this information may be innaccurate, as most autobiographie are written years after the occurance.
+
+validity = questionable.
+
+### social media , blogs
+
+a more modern approuch of autobiographies, social media can be used as an archive of how peoples lives change, another form of secondary data
+
+### government made documents
+
+government and other official organisations share many types of immediate documents available to the general government
+
+including, old famous magazines, peoples styles of wearing, etc
+
+### other types of documents for
+
