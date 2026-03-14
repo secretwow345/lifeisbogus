@@ -35,6 +35,16 @@ Escaping samsara is the only option for me, ascension is key
 
 ![[IMG_7413.mov]]
 
+
+
+Add stitches to random tt videos daily
+
+
+Do this tt with some random ug artist
+https://vt.tiktok.com/ZSufwdUbd/
+
+
+
 Artists to lab with : 
 
 https://www.instagram.com/twinbalencis?igsh=aG5lamZxMWN2bWh6
