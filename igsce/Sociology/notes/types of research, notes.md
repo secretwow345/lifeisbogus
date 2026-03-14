@@ -134,4 +134,39 @@ on the other hand, soft statistics completely depend on the hands of the subject
 
 **soft stats = you can choose the outcome**
 
-CONTINUE ON THE PAGE WITH ANNE FRANK
+another form of secondary data is **historical or personal documents**
+
+#### hisortical documents
+
+historical or personal documents are documents commonly researched by sociologists to see how people were acting during a specific area and time peroid, this is to compare differences between then and now
+
+this is usual to investigate how societies have changed overtime. examples may include :
+
+1. personal documents
+first person accounts like letters are dairy entries, during wars or significant time frames
+
+2. famous people or politians, leaders dairies
+to show how famous people used to act during their past life.
+
+3. magazine or zines 
+
+### autobiographies 
+
+another form of secondary information, autobiographies are written in depth descriptions of famous people that would describe how their life was during a certain period of time. this information may be innaccurate, as most autobiographie are written years after the occurance.
+
+validity = questionable.
+
+### social media , blogs
+
+a more modern approuch of autobiographies, social media can be used as an archive of how peoples lives change, another form of secondary data
+
+### government made documents
+
+government and other official organisations share many types of immediate documents available to the general government
+
+including, old famous magazines, peoples styles of wearing, etc
+
+### other types of documents for sociological research
+
+wills, shopping lists, household accounts and many other stuff can be used for research ; though it is not confined to documents. this includes photo and video also.
+
