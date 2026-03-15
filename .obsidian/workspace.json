@@ -149,9 +149,23 @@
               "icon": "lucide-file",
               "title": "money and banking notes"
             }
+          },
+          {
+            "id": "2f2b66a678006ce5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "igsce/economics/notes/test questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test questions"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -224,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "igsce/economics/notes/money and banking notes.md",
+                "file": "igsce/economics/notes/test questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +248,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for money and banking notes"
+              "title": "Backlinks for test questions"
             }
           },
           {
@@ -327,10 +341,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4abf427a0ec0d618",
+  "active": "2f2b66a678006ce5",
   "lastOpenFiles": [
-    "igsce/economics/notes/Price elasticity.md",
     "igsce/economics/notes/money and banking notes.md",
+    "igsce/economics/notes/test questions.md",
+    "igsce/economics/notes/Price elasticity.md",
     "igsce/economics/notes/households.md",
     "igsce/important resources for all notes.md",
     "igsce/Sociology/notes/types of research, notes.md",
@@ -359,7 +374,6 @@
     "igsce/travel and tourism/types of tourist.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "igsce/Sociology/general terms/interviewers effect.md",
     "iuyiuy",
     "igsce/economics/economics mindmap/economics mindmap.canvas",
     "igsce/business/business location.canvas",
