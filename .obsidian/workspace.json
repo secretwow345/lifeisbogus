@@ -142,12 +142,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "igsce/important resources for all notes.md",
+                "file": "igsce/economics/notes/money and banking notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "important resources for all notes"
+              "title": "money and banking notes"
             }
           }
         ],
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "igsce/important resources for all notes.md",
+                "file": "igsce/economics/notes/money and banking notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for important resources for all notes"
+              "title": "Backlinks for money and banking notes"
             }
           },
           {
@@ -329,9 +329,12 @@
   },
   "active": "4abf427a0ec0d618",
   "lastOpenFiles": [
+    "igsce/economics/notes/Price elasticity.md",
+    "igsce/economics/notes/money and banking notes.md",
+    "igsce/economics/notes/households.md",
+    "igsce/important resources for all notes.md",
     "igsce/Sociology/notes/types of research, notes.md",
     "igsce/Sociology/notes/socio test paper.md",
-    "igsce/important resources for all notes.md",
     "Random/Daily notes/2026-03-12.md",
     "Random/Daily notes/2026-03-11.md",
     "Scrpt for punk japan.md",
@@ -357,9 +360,6 @@
     "Untitled.canvas",
     "Untitled 1.canvas",
     "igsce/Sociology/general terms/interviewers effect.md",
-    "igsce/Sociology/general terms/Hawthornes effect.md",
-    "igsce/economics/notes/households.md",
-    "igsce/economics/notes/money and banking notes.md",
     "iuyiuy",
     "igsce/economics/economics mindmap/economics mindmap.canvas",
     "igsce/business/business location.canvas",
