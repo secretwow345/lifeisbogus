@@ -156,12 +156,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "igsce/economics/notes/test questions.md",
+                "file": "igsce/important resources for all notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test questions"
+              "title": "important resources for all notes"
             }
           }
         ],
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "igsce/economics/notes/test questions.md",
+                "file": "igsce/important resources for all notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for test questions"
+              "title": "Backlinks for important resources for all notes"
             }
           },
           {
@@ -343,8 +343,8 @@
   },
   "active": "2f2b66a678006ce5",
   "lastOpenFiles": [
-    "igsce/economics/notes/money and banking notes.md",
     "igsce/economics/notes/test questions.md",
+    "igsce/economics/notes/money and banking notes.md",
     "igsce/economics/notes/Price elasticity.md",
     "igsce/economics/notes/households.md",
     "igsce/important resources for all notes.md",
