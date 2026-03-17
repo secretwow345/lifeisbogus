@@ -24,4 +24,19 @@ the demand for labour for different occupations called "derived demand" because 
 
 wage differentials 
 
-wage differentials are difference in wage in the samen company based off of skill and heiarchal status according to
+wage differentials are difference in wage in the samen company based off of skill and heiarchal status according to the market demand and supply
+
+
+what are the factors that give high wages?
+
+- skills , qualification
+- expertise, specialization
+- unsociable hours
+- danger , risk of task
+- geographical , immobility of labour
+
+why wage differentials can exist between employees at the same job?
+
+- regional pay differences
+- non wage benefit of fringe benefit
+
