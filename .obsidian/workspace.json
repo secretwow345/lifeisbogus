@@ -170,12 +170,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "igsce/trade unions questions.md",
+                "file": "igsce/workers market notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "trade unions questions"
+              "title": "workers market notes"
             }
           }
         ],
@@ -252,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "igsce/trade unions questions.md",
+                "file": "igsce/workers market notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +262,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for trade unions questions"
+              "title": "Backlinks for workers market notes"
             }
           },
           {
@@ -358,7 +358,7 @@
   "active": "9517ee4d29ffc8df",
   "lastOpenFiles": [
     "igsce/important resources for all notes.md",
-    "igsce/trade unions questions.md",
+    "igsce/workers market notes.md",
     "igsce/travel and tourism/notes/travel and tourism, notes.md",
     "igsce/economics/notes/test questions.md",
     "igsce/economics/notes/money and banking notes.md",

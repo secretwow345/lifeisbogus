@@ -19,4 +19,9 @@ wage rate is a wage fixed by an organization at a specific market rate or legal 
 
 derived demand for labour 
 
-the demand for labour for different occupations called "derived demand" because employers recruit labour
+the demand for labour for different occupations called "derived demand" because employers recruit labour for the production of goods or services for 'market demand'
+
+
+wage differentials 
+
+wage differentials are difference in wage in the samen company based off of skill and heiarchal status according to
