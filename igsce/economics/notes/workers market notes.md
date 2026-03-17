@@ -39,4 +39,24 @@ why wage differentials can exist between employees at the same job?
 
 - regional pay differences
 - non wage benefit of fringe benefit
+- experience or length of service
+- discrimination
 
+
+### role of trade unions
+
+what is trade union ?
+
+a group of workers ?
+
+what is collective bargaining ?
+
+what is industrial disputes ?
+
+what is industrial action ?
+
+what is open shop recruitment ?
+
+what is closed shop recruitment ?
+
+what is single union agreement ?
