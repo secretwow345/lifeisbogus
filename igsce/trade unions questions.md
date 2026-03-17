@@ -17,3 +17,6 @@ what is a wage rate ?
 
 wage rate is a wage fixed by an organization at a specific market rate or legal rate (minimum wage) when demand or supply equal  of labour for different jobs
 
+derived demand for labour 
+
+the demand for labour for different occupations called "derived demand" because employers recruit labour
