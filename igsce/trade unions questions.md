@@ -15,5 +15,5 @@ workers join said demanded jobs, causing a supply
 
 what is a wage rate ? 
 
-wage rate is a wage fixed by an organization at a specific market rate or legal rate (minimum wage) at demand or supply equal  of labour for different jobs
+wage rate is a wage fixed by an organization at a specific market rate or legal rate (minimum wage) when demand or supply equal  of labour for different jobs
 
