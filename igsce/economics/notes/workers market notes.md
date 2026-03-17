@@ -47,7 +47,7 @@ why wage differentials can exist between employees at the same job?
 
 what is trade union ?
 
-a group of workers ?
+- a group of workers 
 
 what is collective bargaining ?
 
@@ -60,3 +60,16 @@ what is open shop recruitment ?
 what is closed shop recruitment ?
 
 what is single union agreement ?
+
+what is the most important functions of trade union?
+
+- negotiating wages and non wage benefits
+- 
+
+what are the important trade union functions?
+
+what are the different types of industrial action?
+
+what are the implication of industrial action for the union?
+
+what are the different types of unions are there ?
