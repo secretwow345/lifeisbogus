@@ -64,7 +64,13 @@ what is single union agreement ?
 what is the most important functions of trade union?
 
 - negotiating wages and non wage benefits
-- 
+- defending employee rights and jobs
+- improving working conditions, better working hours, health and safety
+- improving pay and other benefits e.g. sick pay, compensation etc
+- supporting members, taking industrial actions
+- encouraging worker participation in businesss decision making
+- improving the skills of union members
+- providing social and recreational amenities 
 
 what are the important trade union functions?
 
@@ -73,3 +79,9 @@ what are the different types of industrial action?
 what are the implication of industrial action for the union?
 
 what are the different types of unions are there ?
+
+what does closed shop mean?
+
+- closed shop is when they dont allow promotions or 
+
+what does open shop mean?
