@@ -82,6 +82,15 @@ what are the different types of unions are there ?
 
 what does closed shop mean?
 
-- closed shop is when they dont allow promotions or 
+- closed shop is when they dont allow promotions or opportunities for non union members
 
 what does open shop mean?
+
+- opposite of closed shop, allowing employment of both unionized and non unionized members
+
+what is single union agreement?
+
+- in a single union agreement, a firm agrees a single union can represent all its workers. because this will give considerate bargain power to a union.
+
+
+
