@@ -1,9 +1,10 @@
 {
 	"nodes":[
-		{"id":"5aa76cec0c3e908b","type":"file","file":"repo-storage/Sociology/postivism and interpretivism.md","x":24,"y":-193,"width":400,"height":400},
-		{"id":"b1d7986820b3edd2","type":"file","file":"repo-storage/Sociology/notes/types of research, notes.md","x":-376,"y":240,"width":400,"height":400}
+		{"id":"bfcf9b46c54ecf65","type":"text","text":"primary research","x":-101,"y":194,"width":250,"height":60},
+		{"id":"cb47c6de43086689","type":"text","text":"secondary research","x":200,"y":194,"width":250,"height":60},
+		{"id":"9c74a3487b10f7b0","type":"text","text":"triangulation","x":24,"y":480,"width":250,"height":60},
+		{"id":"bd5bc3c381d348b2","type":"text","text":"Unstructured interviews","x":-226,"y":620,"width":250,"height":60},
+		{"id":"41ffe6541b719302","type":"text","text":"structured interviews","x":274,"y":590,"width":250,"height":60}
 	],
-	"edges":[
-		{"id":"33f9b266d87d7f6a","fromNode":"5aa76cec0c3e908b","fromSide":"bottom","toNode":"b1d7986820b3edd2","toSide":"top"}
-	]
+	"edges":[]
 }

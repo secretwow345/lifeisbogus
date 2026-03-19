@@ -168,14 +168,17 @@
             "id": "9517ee4d29ffc8df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "igsce/Sociology/notes/methods of research data.md",
-                "mode": "source",
-                "source": false
+                "file": "igsce/Sociology/mindmap/sociology mindmap.canvas",
+                "viewState": {
+                  "x": 136.07730588235302,
+                  "y": 422.7294294117645,
+                  "zoom": -0.2903550118333058
+                }
               },
-              "icon": "lucide-file",
-              "title": "methods of research data"
+              "icon": "lucide-layout-dashboard",
+              "title": "sociology mindmap"
             }
           }
         ],
@@ -252,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "igsce/Sociology/notes/methods of research data.md",
+                "file": "igsce/Sociology/mindmap/sociology mindmap.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +265,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for methods of research data"
+              "title": "Backlinks for sociology mindmap"
             }
           },
           {
@@ -357,9 +360,12 @@
   },
   "active": "9517ee4d29ffc8df",
   "lastOpenFiles": [
-    "igsce/Sociology/notes/how do sociologists study research.md",
-    "igsce/Sociology/notes/types of research, notes.md",
+    "igsce/Sociology/types of research/primary research/triangulation/triangulation.md",
+    "igsce/Sociology/notes/methods of research data.md",
     "igsce/Sociology/mindmap/sociology mindmap.canvas",
+    "igsce/Sociology/notes/types of research, notes.md",
+    "igsce/Sociology/notes/socio test paper.md",
+    "igsce/Sociology/notes/how do sociologists study research.md",
     "igsce/travel and tourism/types of business tourism/confrences.md",
     "Testimg from iphone to pc.md",
     "igsce/economics/notes/households.md",
@@ -368,8 +374,6 @@
     "igsce/important resources for all notes.md",
     "igsce/Sociology/notes/Longitudinal studies.md",
     "igsce/travel and tourism/notes/travel and tourism, notes.md",
-    "igsce/Sociology/notes/methods of research data.md",
-    "igsce/Sociology/notes/socio test paper.md",
     "Random/Daily notes/2026-03-15.md",
     "igsce/economics/notes/money and banking notes.md",
     "igsce/economics/notes/Price elasticity.md",
