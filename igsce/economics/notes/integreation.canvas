@@ -10,8 +10,8 @@
 		{"id":"a1238890f4dce438","x":-3,"y":-280,"width":250,"height":60,"type":"text","text":"vertical integration"},
 		{"id":"67c85315afbaeac7","x":730,"y":-280,"width":250,"height":60,"type":"text","text":"Conglomerate integration"},
 		{"id":"ccd98348a1e6673c","x":355,"y":60,"width":250,"height":60,"type":"text","text":"merger or takover of a firm/ companie in the same field"},
-		{"id":"9cc7d8cee4160e96","x":722,"y":-148,"width":258,"height":125,"type":"text","text":"opposite of horiztonal and vertical as it is in a different industry entirely"},
-		{"id":"08d9aec60543208b","x":497,"y":14,"width":250,"height":60,"type":"text","text":"staru"}
+		{"id":"9cc7d8cee4160e96","x":726,"y":-138,"width":258,"height":125,"type":"text","text":"opposite of horiztonal and vertical as it is in a different industry entirely"},
+		{"id":"08d9aec60543208b","x":680,"y":90,"width":233,"height":106,"type":"text","text":"startup companies invest in business, e.g. microsoft, google, apple."}
 	],
 	"edges":[
 		{"id":"76898328aed3346b","fromNode":"0a18615ecc4a4cff","fromSide":"top","toNode":"52fc4a6ade00f16e","toSide":"bottom"},
@@ -21,6 +21,7 @@
 		{"id":"37369383a7700c39","fromNode":"650376a1beda794f","fromSide":"bottom","toNode":"206ecc9d1e7efd8d","toSide":"top"},
 		{"id":"78d86dfae23aba7c","fromNode":"70b4a94387732826","fromSide":"bottom","toNode":"ccd98348a1e6673c","toSide":"top"},
 		{"id":"6eaa615f0a175a65","fromNode":"a1238890f4dce438","fromSide":"bottom","toNode":"52fc4a6ade00f16e","toSide":"top"},
-		{"id":"e9e6fe637f719739","fromNode":"67c85315afbaeac7","fromSide":"bottom","toNode":"9cc7d8cee4160e96","toSide":"top"}
+		{"id":"e9e6fe637f719739","fromNode":"67c85315afbaeac7","fromSide":"bottom","toNode":"9cc7d8cee4160e96","toSide":"top"},
+		{"id":"ea828a8fff770b0f","fromNode":"9cc7d8cee4160e96","fromSide":"bottom","toNode":"08d9aec60543208b","toSide":"top"}
 	]
 }
