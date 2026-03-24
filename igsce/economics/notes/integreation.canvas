@@ -1,16 +1,26 @@
 {
 	"nodes":[
-		{"id":"206ecc9d1e7efd8d","x":-156,"y":256,"width":250,"height":60,"type":"text","text":""},
-		{"id":"a1238890f4dce438","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"vertical integration"},
 		{"id":"0a18615ecc4a4cff","x":-300,"y":120,"width":250,"height":60,"type":"text","text":"backward integration"},
 		{"id":"650376a1beda794f","x":40,"y":120,"width":250,"height":60,"type":"text","text":"foreward integration"},
-		{"id":"8dae1768710987c7","x":-425,"y":240,"width":250,"height":100,"type":"text","text":"companies invest into earlier parts of production, i.e. raw materials"},
-		{"id":"d1858f0dac9a0bb9","x":-780,"y":260,"width":250,"height":60,"type":"text","text":"backwards integration is cheaper, as it can cut down on costs..."}
+		{"id":"206ecc9d1e7efd8d","x":40,"y":260,"width":250,"height":104,"type":"text","text":"promotion and marketing of own goods and services for finished product"},
+		{"id":"8dae1768710987c7","x":-300,"y":260,"width":250,"height":100,"type":"text","text":"companies invest into earlier parts of production, i.e. raw materials"},
+		{"id":"d1858f0dac9a0bb9","x":-620,"y":256,"width":250,"height":104,"type":"text","text":"backwards integration is cheaper, as it can cut down on costs..."},
+		{"id":"52fc4a6ade00f16e","x":-120,"y":-76,"width":242,"height":106,"type":"text","text":"same as horizontal, just through different tages of production"},
+		{"id":"70b4a94387732826","x":355,"y":-280,"width":250,"height":60,"type":"text","text":"horizontal integration"},
+		{"id":"a1238890f4dce438","x":-3,"y":-280,"width":250,"height":60,"type":"text","text":"vertical integration"},
+		{"id":"67c85315afbaeac7","x":730,"y":-280,"width":250,"height":60,"type":"text","text":"Conglomerate integration"},
+		{"id":"ccd98348a1e6673c","x":355,"y":60,"width":250,"height":60,"type":"text","text":"merger or takover of a firm/ companie in the same field"},
+		{"id":"9cc7d8cee4160e96","x":722,"y":-148,"width":258,"height":125,"type":"text","text":"opposite of horiztonal and vertical as it is in a different industry entirely"},
+		{"id":"08d9aec60543208b","x":497,"y":14,"width":250,"height":60,"type":"text","text":"staru"}
 	],
 	"edges":[
-		{"id":"76898328aed3346b","fromNode":"0a18615ecc4a4cff","fromSide":"top","toNode":"a1238890f4dce438","toSide":"bottom"},
-		{"id":"04009fb17120ce59","fromNode":"650376a1beda794f","fromSide":"top","toNode":"a1238890f4dce438","toSide":"bottom"},
+		{"id":"76898328aed3346b","fromNode":"0a18615ecc4a4cff","fromSide":"top","toNode":"52fc4a6ade00f16e","toSide":"bottom"},
+		{"id":"04009fb17120ce59","fromNode":"650376a1beda794f","fromSide":"top","toNode":"52fc4a6ade00f16e","toSide":"bottom"},
 		{"id":"e6ddb550dbdee871","fromNode":"0a18615ecc4a4cff","fromSide":"bottom","toNode":"8dae1768710987c7","toSide":"top"},
-		{"id":"ce12cae36589e105","fromNode":"d1858f0dac9a0bb9","fromSide":"right","toNode":"8dae1768710987c7","toSide":"left"}
+		{"id":"ce12cae36589e105","fromNode":"d1858f0dac9a0bb9","fromSide":"right","toNode":"8dae1768710987c7","toSide":"left"},
+		{"id":"37369383a7700c39","fromNode":"650376a1beda794f","fromSide":"bottom","toNode":"206ecc9d1e7efd8d","toSide":"top"},
+		{"id":"78d86dfae23aba7c","fromNode":"70b4a94387732826","fromSide":"bottom","toNode":"ccd98348a1e6673c","toSide":"top"},
+		{"id":"6eaa615f0a175a65","fromNode":"a1238890f4dce438","fromSide":"bottom","toNode":"52fc4a6ade00f16e","toSide":"top"},
+		{"id":"e9e6fe637f719739","fromNode":"67c85315afbaeac7","fromSide":"bottom","toNode":"9cc7d8cee4160e96","toSide":"top"}
 	]
 }
