@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"206ecc9d1e7efd8d","x":-156,"y":256,"width":250,"height":60,"type":"text","text":""},
+		{"id":"a1238890f4dce438","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"vertical integration"},
+		{"id":"0a18615ecc4a4cff","x":-300,"y":120,"width":250,"height":60,"type":"text","text":"backward integration"},
+		{"id":"650376a1beda794f","x":40,"y":120,"width":250,"height":60,"type":"text","text":"foreward integration"},
+		{"id":"8dae1768710987c7","x":-425,"y":240,"width":250,"height":100,"type":"text","text":"companies invest into earlier parts of production, i.e. raw materials"},
+		{"id":"d1858f0dac9a0bb9","x":-780,"y":260,"width":250,"height":60,"type":"text","text":"backwards integration is cheaper, as it can cut down on costs..."}
+	],
+	"edges":[
+		{"id":"76898328aed3346b","fromNode":"0a18615ecc4a4cff","fromSide":"top","toNode":"a1238890f4dce438","toSide":"bottom"},
+		{"id":"04009fb17120ce59","fromNode":"650376a1beda794f","fromSide":"top","toNode":"a1238890f4dce438","toSide":"bottom"},
+		{"id":"e6ddb550dbdee871","fromNode":"0a18615ecc4a4cff","fromSide":"bottom","toNode":"8dae1768710987c7","toSide":"top"},
+		{"id":"ce12cae36589e105","fromNode":"d1858f0dac9a0bb9","fromSide":"right","toNode":"8dae1768710987c7","toSide":"left"}
+	]
+}
