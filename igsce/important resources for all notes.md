@@ -9,5 +9,7 @@ economics :
 
 https://www.youtube.com/playlist?list=PLUk3yfbOuRvG8deNKKtYSZZwTjU3N9qYt
 
+https://igcseaid.com/notes/economics-0455/
+
 sociology :
 https://www.learnedguys.com/uploads/files/248/Sociology%20O%20level%20notes%20by%20Shahraiz%20Chishti%20Greenhall.pdf

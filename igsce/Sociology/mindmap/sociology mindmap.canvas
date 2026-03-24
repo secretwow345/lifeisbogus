@@ -1,9 +1,25 @@
 {
 	"nodes":[
-		{"id":"5aa76cec0c3e908b","type":"file","file":"repo-storage/Sociology/postivism and interpretivism.md","x":24,"y":-193,"width":400,"height":400},
-		{"id":"b1d7986820b3edd2","type":"file","file":"repo-storage/Sociology/notes/types of research, notes.md","x":-376,"y":240,"width":400,"height":400}
+		{"id":"bfcf9b46c54ecf65","type":"text","text":"primary research","x":-101,"y":194,"width":250,"height":60},
+		{"id":"cb47c6de43086689","type":"text","text":"secondary research","x":200,"y":194,"width":250,"height":60},
+		{"id":"bd5bc3c381d348b2","type":"text","text":"Unstructured interviews","x":-101,"y":320,"width":250,"height":60},
+		{"id":"41ffe6541b719302","type":"text","text":"structured interviews","x":200,"y":320,"width":250,"height":60},
+		{"id":"64af1f49658fceda","type":"text","text":"secondary research","x":200,"y":700,"width":250,"height":60},
+		{"id":"6efcb08aaa966da5","type":"text","text":"primary research","x":-101,"y":700,"width":250,"height":60},
+		{"id":"9c74a3487b10f7b0","type":"text","text":"triangulation","x":60,"y":600,"width":250,"height":60},
+		{"id":"ee3d7632f370676f","type":"text","text":"data trangulation","x":-101,"y":840,"width":250,"height":60},
+		{"id":"52726b87f739853a","type":"text","text":"methodological triangulation","x":200,"y":840,"width":250,"height":60},
+		{"id":"48499e40e4c41b46","type":"text","text":"theory triangulation","x":500,"y":840,"width":250,"height":60},
+		{"id":"c2e4079f250f11d2","x":800,"y":840,"width":250,"height":60,"type":"text","text":"investigator triangulation"}
 	],
 	"edges":[
-		{"id":"33f9b266d87d7f6a","fromNode":"5aa76cec0c3e908b","fromSide":"bottom","toNode":"b1d7986820b3edd2","toSide":"top"}
+		{"id":"745380a71fe5eccf","fromNode":"bfcf9b46c54ecf65","fromSide":"bottom","toNode":"bd5bc3c381d348b2","toSide":"top"},
+		{"id":"6e9f77e8573500b3","fromNode":"cb47c6de43086689","fromSide":"bottom","toNode":"41ffe6541b719302","toSide":"top"},
+		{"id":"78b1803d3c3b2d10","fromNode":"9c74a3487b10f7b0","fromSide":"bottom","toNode":"6efcb08aaa966da5","toSide":"top"},
+		{"id":"a8c7a6f45f0f8c84","fromNode":"9c74a3487b10f7b0","fromSide":"bottom","toNode":"64af1f49658fceda","toSide":"top"},
+		{"id":"03796c8fc92d8573","fromNode":"6efcb08aaa966da5","fromSide":"bottom","toNode":"ee3d7632f370676f","toSide":"top"},
+		{"id":"de1db1b1e5918740","fromNode":"64af1f49658fceda","fromSide":"bottom","toNode":"52726b87f739853a","toSide":"top"},
+		{"id":"157d6f7194c72ea3","fromNode":"64af1f49658fceda","fromSide":"bottom","toNode":"48499e40e4c41b46","toSide":"top"},
+		{"id":"9a2c2e9fb37287c0","fromNode":"64af1f49658fceda","fromSide":"bottom","toNode":"c2e4079f250f11d2","toSide":"top"}
 	]
 }

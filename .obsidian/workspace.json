@@ -168,14 +168,17 @@
             "id": "9517ee4d29ffc8df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "igsce/economics/notes/workers market notes.md",
-                "mode": "source",
-                "source": false
+                "file": "igsce/economics/notes/integreation.canvas",
+                "viewState": {
+                  "x": 435.29576053444293,
+                  "y": 415.32250565894014,
+                  "zoom": -1.2412118228276565
+                }
               },
-              "icon": "lucide-file",
-              "title": "workers market notes"
+              "icon": "lucide-layout-dashboard",
+              "title": "integreation"
             }
           }
         ],
@@ -252,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "igsce/economics/notes/workers market notes.md",
+                "file": "igsce/economics/notes/integreation.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +265,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for workers market notes"
+              "title": "Backlinks for integreation"
             }
           },
           {
@@ -357,16 +360,26 @@
   },
   "active": "9517ee4d29ffc8df",
   "lastOpenFiles": [
-    "Random/Daily notes/2026-03-15.md",
-    "igsce/economics/notes/money and banking notes.md",
-    "igsce/economics/notes/households.md",
-    "igsce/economics/notes/test questions.md",
+    "igsce/economics/notes/Untitled.md",
+    "igsce/economics/notes/integreation.canvas",
     "igsce/economics/notes/workers market notes.md",
     "igsce/important resources for all notes.md",
-    "igsce/travel and tourism/notes/travel and tourism, notes.md",
-    "igsce/economics/notes/Price elasticity.md",
+    "z",
+    "igsce/Sociology/notes/how do sociologists study research.md",
+    "igsce/Sociology/notes/Longitudinal studies.md",
+    "igsce/Sociology/mindmap/sociology mindmap.canvas",
     "igsce/Sociology/notes/types of research, notes.md",
+    "igsce/Sociology/notes/methods of research data.md",
+    "igsce/Sociology/types of research/primary research/triangulation/triangulation.md",
     "igsce/Sociology/notes/socio test paper.md",
+    "igsce/travel and tourism/types of business tourism/confrences.md",
+    "Testimg from iphone to pc.md",
+    "igsce/economics/notes/households.md",
+    "igsce/economics/notes/test questions.md",
+    "igsce/travel and tourism/notes/travel and tourism, notes.md",
+    "Random/Daily notes/2026-03-15.md",
+    "igsce/economics/notes/money and banking notes.md",
+    "igsce/economics/notes/Price elasticity.md",
     "Random/Daily notes/2026-03-12.md",
     "Random/Daily notes/2026-03-11.md",
     "Scrpt for punk japan.md",
@@ -375,18 +388,9 @@
     "Untitled 1.md",
     "test.md",
     "Untitled.md",
-    "Untitled copy.md",
-    "scab waist wearing(?).md",
-    "Testimg from iphone to pc.md",
-    "tomoatoa.md",
-    "README.md",
     "igsce",
-    "igsce/travel and tourism/general terms/leisure tourists.md",
-    "igsce/travel and tourism/general terms/business tourists.md",
-    "igsce/travel and tourism/general terms/domestic tourism.md",
     "igsce/travel and tourism/general terms/sub sectors of travel and tourism.canvas",
     "igsce/travel and tourism/types of tourist.canvas",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "iuyiuy",
     "igsce/economics/economics mindmap/economics mindmap.canvas",
@@ -400,12 +404,10 @@
     "types of business tourist",
     "igsce/travel and tourism/general terms",
     "igsce/travel and tourism/notes",
-    "media/v24044gl0000d3rv48vog65kf3ao02kg 2.mp4",
     "media/IMG_7237 2.jpeg",
     "media/IMG_7177 2.jpeg",
     "media/IMG_7236 2.jpeg",
     "media/IMG_7481.jpg",
-    "igsce/Sociology/mindmap/sociology mindmap.canvas",
     "repo-storage/Sociology/notes/sociology mindmap.canvas",
     "media/IMG_7235 2.jpeg"
   ]
