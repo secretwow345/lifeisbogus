@@ -180,9 +180,23 @@
               "icon": "lucide-layout-dashboard",
               "title": "integreation"
             }
+          },
+          {
+            "id": "3aedaf1088553165",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "igsce/economics/notes/english.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "english"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -255,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "igsce/economics/notes/integreation.canvas",
+                "file": "igsce/economics/notes/english.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +279,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for integreation"
+              "title": "Backlinks for english"
             }
           },
           {
@@ -358,11 +372,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "9517ee4d29ffc8df",
+  "active": "3aedaf1088553165",
   "lastOpenFiles": [
-    "Random/Daily notes/2026-03-21.md",
-    "igsce/economics/notes/Untitled.md",
     "igsce/economics/notes/integreation.canvas",
+    "igsce/economics/notes/english.md",
+    "Random/Daily notes/2026-03-21.md",
     "igsce/economics/notes/workers market notes.md",
     "igsce/important resources for all notes.md",
     "z",
@@ -388,7 +402,6 @@
     "IMG_7.md",
     "Untitled 1.md",
     "test.md",
-    "Untitled.md",
     "igsce",
     "igsce/travel and tourism/general terms/sub sectors of travel and tourism.canvas",
     "igsce/travel and tourism/types of tourist.canvas",
