@@ -12,7 +12,10 @@
 		{"id":"f71526498ab28ee4","x":270,"y":200,"width":250,"height":80,"type":"text","text":"long term finance ( more than a year )"},
 		{"id":"91f7577b62af2270","x":330,"y":310,"width":250,"height":60,"type":"text","text":"loans"},
 		{"id":"d0b2c0bbae3afbee","x":330,"y":680,"width":250,"height":60,"type":"text","text":"loan"},
-		{"id":"e9004c022728ce0b","x":305,"y":840,"width":300,"height":55,"type":"text","text":"working capital ( money reuired for business operation )"}
+		{"id":"e9004c022728ce0b","x":305,"y":840,"width":300,"height":55,"type":"text","text":"working capital ( money reuired for business operation )"},
+		{"id":"bc63edf32421583f","x":250,"y":1000,"width":298,"height":180,"type":"text","text":"working capital formula\n\ntotal current asset - total current liability"},
+		{"id":"c66a3f034a50ec89","x":640,"y":840,"width":310,"height":55,"type":"text","text":"startup capital ( money required to start the business operation )"},
+		{"id":"59861a9432db81d6","x":217,"y":1280,"width":303,"height":146,"type":"text","text":"**current asset meaning**\nasset that can be operated in short term and it will liquidate within a year"}
 	],
 	"edges":[
 		{"id":"69788502f057501f","fromNode":"08404b6b947ca590","fromSide":"bottom","toNode":"aa6bca86c3a46ec6","toSide":"top"},
@@ -25,8 +28,10 @@
 		{"id":"415a65d1cf0e93ba","fromNode":"11548e266f4b2e86","fromSide":"bottom","toNode":"91f7577b62af2270","toSide":"top"},
 		{"id":"e294b0d759f4c56e","fromNode":"f43624c8cf7c5fa1","fromSide":"bottom","toNode":"08404b6b947ca590","toSide":"top"},
 		{"id":"dc2d657bd56e5533","fromNode":"f43624c8cf7c5fa1","fromSide":"bottom","toNode":"11548e266f4b2e86","toSide":"top"},
-		{"id":"06e518f32d9ce6ee","fromNode":"e9004c022728ce0b","fromSide":"bottom","toNode":"d0b2c0bbae3afbee","toSide":"bottom"},
-		{"id":"1c7cb08612945f77","fromNode":"e9004c022728ce0b","fromSide":"bottom","toNode":"d0b2c0bbae3afbee","toSide":"bottom"},
-		{"id":"9caf25fab96bc81e","fromNode":"d0b2c0bbae3afbee","fromSide":"top","toNode":"82af2b7ab1abcb1a","toSide":"bottom"}
+		{"id":"9caf25fab96bc81e","fromNode":"d0b2c0bbae3afbee","fromSide":"top","toNode":"82af2b7ab1abcb1a","toSide":"bottom"},
+		{"id":"9168436bdf820a6a","fromNode":"e9004c022728ce0b","fromSide":"top","toNode":"d0b2c0bbae3afbee","toSide":"bottom"},
+		{"id":"3028afc59ee18a56","fromNode":"bc63edf32421583f","fromSide":"top","toNode":"e9004c022728ce0b","toSide":"bottom"},
+		{"id":"8c8f168b25d77541","fromNode":"e9004c022728ce0b","fromSide":"right","toNode":"c66a3f034a50ec89","toSide":"left"},
+		{"id":"286b0fb403087e25","fromNode":"59861a9432db81d6","fromSide":"top","toNode":"bc63edf32421583f","toSide":"bottom"}
 	]
 }
