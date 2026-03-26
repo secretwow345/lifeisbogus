@@ -187,15 +187,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "igsce/business/notes/finance chapter.canvas",
                 "viewState": {
-                  "x": 736.0339863573495,
-                  "y": 1034.9468868685865,
-                  "zoom": -1.4577290333310755
+                  "x": 359.96404254968553,
+                  "y": 702.9575748176273,
+                  "zoom": -1.0775874818364772
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "title": "finance chapter"
             }
           }
         ],
@@ -272,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "igsce/business/notes/finance chapter.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +282,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for finance chapter"
             }
           },
           {
@@ -378,7 +378,7 @@
   "active": "3aedaf1088553165",
   "lastOpenFiles": [
     "igsce/business/location decisions.md",
-    "Untitled.canvas",
+    "igsce/business/notes/finance chapter.canvas",
     "igsce/english.md",
     "igsce/economics/notes/integreation.canvas",
     "Random/Daily notes/2026-03-21.md",
