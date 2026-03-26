@@ -11,8 +11,6 @@
 		{"id":"91f7577b62af2270","x":20,"y":280,"width":250,"height":60,"type":"text","text":"loans"},
 		{"id":"d0b2c0bbae3afbee","x":-218,"y":640,"width":250,"height":60,"type":"text","text":"loan"},
 		{"id":"bc63edf32421583f","x":-298,"y":960,"width":298,"height":180,"type":"text","text":"working capital formula\n\ntotal current asset - total current liability"},
-		{"id":"59861a9432db81d6","x":-331,"y":1240,"width":303,"height":146,"type":"text","text":"**current asset meaning**\nasset that can be operated in short term and it will liquidate within a year"},
-		{"id":"b19eee5c92068c64","x":-371,"y":1440,"width":343,"height":176,"type":"text","text":"**LIQUIDITY**\n\nMEANING; short term assets \n\ne.g. cash and bank balance, selling of items, short term invests, inventory, short term deposits,"},
 		{"id":"e9004c022728ce0b","x":-393,"y":800,"width":300,"height":55,"type":"text","text":"working capital ( money reuired for business operation )"},
 		{"id":"f71526498ab28ee4","x":440,"y":400,"width":250,"height":80,"type":"text","text":"long term finance ( more than a year )"},
 		{"id":"f43624c8cf7c5fa1","x":-125,"y":-240,"width":250,"height":60,"type":"text","text":"finance"},
@@ -24,7 +22,10 @@
 		{"id":"4063e8f12a02c058","x":270,"y":668,"width":250,"height":60,"type":"text","text":"land"},
 		{"id":"bd85166920375b0a","x":270,"y":768,"width":250,"height":60,"type":"text","text":"equipments"},
 		{"id":"74d4d3e3a38ea601","x":270,"y":548,"width":250,"height":60,"type":"text","text":"plant"},
-		{"id":"c66a3f034a50ec89","x":-70,"y":800,"width":310,"height":55,"type":"text","text":"startup capital ( money required to start the business operation )"}
+		{"id":"c66a3f034a50ec89","x":-70,"y":800,"width":310,"height":55,"type":"text","text":"startup capital ( money required to start the business operation )"},
+		{"id":"59861a9432db81d6","x":-471,"y":1240,"width":303,"height":146,"type":"text","text":"**current asset meaning**\nasset that can be operated in short term and it will liquidate within a year"},
+		{"id":"b19eee5c92068c64","x":-495,"y":1440,"width":343,"height":176,"type":"text","text":"**LIQUIDITY**\n\nMEANING; short term assets \n\ne.g. cash and bank balance, selling of items, short term invests, inventory, short term deposits,"},
+		{"id":"004af6390b768021","x":-109,"y":1240,"width":349,"height":146,"type":"text","text":"**current liablities meaning**\n short term liabilities than can be paid back that can be paid back within a year \n\ne.g. (short term ) loan, bank overdraft"}
 	],
 	"edges":[
 		{"id":"69788502f057501f","fromNode":"08404b6b947ca590","fromSide":"bottom","toNode":"aa6bca86c3a46ec6","toSide":"top"},
@@ -41,7 +42,6 @@
 		{"id":"9168436bdf820a6a","fromNode":"e9004c022728ce0b","fromSide":"top","toNode":"d0b2c0bbae3afbee","toSide":"bottom"},
 		{"id":"3028afc59ee18a56","fromNode":"bc63edf32421583f","fromSide":"top","toNode":"e9004c022728ce0b","toSide":"bottom"},
 		{"id":"8c8f168b25d77541","fromNode":"e9004c022728ce0b","fromSide":"right","toNode":"c66a3f034a50ec89","toSide":"left"},
-		{"id":"286b0fb403087e25","fromNode":"59861a9432db81d6","fromSide":"top","toNode":"bc63edf32421583f","toSide":"bottom"},
 		{"id":"d4584ba3808b9be6","fromNode":"b19eee5c92068c64","fromSide":"top","toNode":"59861a9432db81d6","toSide":"bottom"},
 		{"id":"276b0c879da7eacd","fromNode":"f43624c8cf7c5fa1","fromSide":"bottom","toNode":"e8a16fa83054a986","toSide":"top"},
 		{"id":"48c7fc80e3cabe19","fromNode":"f71526498ab28ee4","fromSide":"bottom","toNode":"74d4d3e3a38ea601","toSide":"top"},
@@ -50,6 +50,8 @@
 		{"id":"7f0b71bd23a24e48","fromNode":"f71526498ab28ee4","fromSide":"bottom","toNode":"ea7e76b7f2d1abae","toSide":"top"},
 		{"id":"28c0bd97216ab5e8","fromNode":"f71526498ab28ee4","fromSide":"bottom","toNode":"bd85166920375b0a","toSide":"top"},
 		{"id":"1fa5ce2a7361fbca","fromNode":"f71526498ab28ee4","fromSide":"bottom","toNode":"f3c6060d6007e161","toSide":"top"},
-		{"id":"770554cf8bc2b1f5","fromNode":"f71526498ab28ee4","fromSide":"bottom","toNode":"ea157f70448207fd","toSide":"top"}
+		{"id":"770554cf8bc2b1f5","fromNode":"f71526498ab28ee4","fromSide":"bottom","toNode":"ea157f70448207fd","toSide":"top"},
+		{"id":"d71152804cb92181","fromNode":"bc63edf32421583f","fromSide":"bottom","toNode":"004af6390b768021","toSide":"top"},
+		{"id":"865e0d14fa69503e","fromNode":"bc63edf32421583f","fromSide":"bottom","toNode":"59861a9432db81d6","toSide":"top"}
 	]
 }
