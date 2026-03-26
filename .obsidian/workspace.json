@@ -185,14 +185,17 @@
             "id": "3aedaf1088553165",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "igsce/economics/notes/english.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 262.56863526690876,
+                  "y": 149.64284679250537,
+                  "zoom": -0.6165084040164949
+                }
               },
-              "icon": "lucide-file",
-              "title": "english"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
@@ -269,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "igsce/economics/notes/english.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +282,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for english"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -374,8 +377,10 @@
   },
   "active": "3aedaf1088553165",
   "lastOpenFiles": [
+    "igsce/business/location decisions.md",
+    "Untitled.canvas",
+    "igsce/english.md",
     "igsce/economics/notes/integreation.canvas",
-    "igsce/economics/notes/english.md",
     "Random/Daily notes/2026-03-21.md",
     "igsce/economics/notes/workers market notes.md",
     "igsce/important resources for all notes.md",
@@ -422,7 +427,6 @@
     "media/IMG_7177 2.jpeg",
     "media/IMG_7236 2.jpeg",
     "media/IMG_7481.jpg",
-    "repo-storage/Sociology/notes/sociology mindmap.canvas",
     "media/IMG_7235 2.jpeg"
   ]
 }
