@@ -7,15 +7,21 @@
 		{"id":"0f3d7edd7f857abf","x":-620,"y":200,"width":250,"height":60,"type":"text","text":"retained profits"},
 		{"id":"45966f3a75c47ffc","x":-620,"y":340,"width":250,"height":60,"type":"text","text":"selling of unwanted assets"},
 		{"id":"1bd885f5df670e31","x":-320,"y":340,"width":250,"height":60,"type":"text","text":"selling unwanted inventory "},
-		{"id":"f71526498ab28ee4","x":138,"y":120,"width":250,"height":60,"type":"text","text":"long term capital"},
-		{"id":"82af2b7ab1abcb1a","x":138,"y":120,"width":250,"height":60,"type":"text","text":"short term capital"},
-		{"id":"91f7577b62af2270","x":138,"y":120,"width":250,"height":60,"type":"text","text":"loans"},
-		{"id":"0212787173c2b58b","x":138,"y":120,"width":250,"height":60,"type":"text","text":"shares"}
+		{"id":"91f7577b62af2270","x":300,"y":340,"width":250,"height":60,"type":"text","text":"loans"},
+		{"id":"f71526498ab28ee4","x":300,"y":200,"width":250,"height":60,"type":"text","text":"long term capital"},
+		{"id":"0212787173c2b58b","x":20,"y":340,"width":250,"height":60,"type":"text","text":"shares"},
+		{"id":"82af2b7ab1abcb1a","x":20,"y":200,"width":250,"height":60,"type":"text","text":"short term capital"}
 	],
 	"edges":[
 		{"id":"69788502f057501f","fromNode":"08404b6b947ca590","fromSide":"bottom","toNode":"aa6bca86c3a46ec6","toSide":"top"},
 		{"id":"d47b7f9b7c98b18b","fromNode":"08404b6b947ca590","fromSide":"bottom","toNode":"0f3d7edd7f857abf","toSide":"top"},
 		{"id":"e057a1134db09347","fromNode":"08404b6b947ca590","fromSide":"bottom","toNode":"45966f3a75c47ffc","toSide":"top"},
-		{"id":"fccd3211dd22f96d","fromNode":"08404b6b947ca590","fromSide":"bottom","toNode":"1bd885f5df670e31","toSide":"top"}
+		{"id":"fccd3211dd22f96d","fromNode":"08404b6b947ca590","fromSide":"bottom","toNode":"1bd885f5df670e31","toSide":"top"},
+		{"id":"d2b58252076d16e7","fromNode":"11548e266f4b2e86","fromSide":"bottom","toNode":"0212787173c2b58b","toSide":"top"},
+		{"id":"179cca3418581293","fromNode":"11548e266f4b2e86","fromSide":"bottom","toNode":"82af2b7ab1abcb1a","toSide":"top"},
+		{"id":"0b2549506efb2cea","fromNode":"11548e266f4b2e86","fromSide":"bottom","toNode":"f71526498ab28ee4","toSide":"top"},
+		{"id":"415a65d1cf0e93ba","fromNode":"11548e266f4b2e86","fromSide":"bottom","toNode":"91f7577b62af2270","toSide":"top"},
+		{"id":"e294b0d759f4c56e","fromNode":"f43624c8cf7c5fa1","fromSide":"bottom","toNode":"08404b6b947ca590","toSide":"top"},
+		{"id":"dc2d657bd56e5533","fromNode":"f43624c8cf7c5fa1","fromSide":"bottom","toNode":"11548e266f4b2e86","toSide":"top"}
 	]
 }
