@@ -15,7 +15,8 @@
 		{"id":"e9004c022728ce0b","x":305,"y":840,"width":300,"height":55,"type":"text","text":"working capital ( money reuired for business operation )"},
 		{"id":"bc63edf32421583f","x":250,"y":1000,"width":298,"height":180,"type":"text","text":"working capital formula\n\ntotal current asset - total current liability"},
 		{"id":"c66a3f034a50ec89","x":640,"y":840,"width":310,"height":55,"type":"text","text":"startup capital ( money required to start the business operation )"},
-		{"id":"59861a9432db81d6","x":217,"y":1280,"width":303,"height":146,"type":"text","text":"**current asset meaning**\nasset that can be operated in short term and it will liquidate within a year"}
+		{"id":"59861a9432db81d6","x":217,"y":1280,"width":303,"height":146,"type":"text","text":"**current asset meaning**\nasset that can be operated in short term and it will liquidate within a year"},
+		{"id":"b19eee5c92068c64","x":177,"y":1480,"width":343,"height":176,"type":"text","text":"**LIQUIDITY**\n\nMEANING; short term assets \n\ne.g. cash and balance, selling of items, short term invests"}
 	],
 	"edges":[
 		{"id":"69788502f057501f","fromNode":"08404b6b947ca590","fromSide":"bottom","toNode":"aa6bca86c3a46ec6","toSide":"top"},
@@ -32,6 +33,7 @@
 		{"id":"9168436bdf820a6a","fromNode":"e9004c022728ce0b","fromSide":"top","toNode":"d0b2c0bbae3afbee","toSide":"bottom"},
 		{"id":"3028afc59ee18a56","fromNode":"bc63edf32421583f","fromSide":"top","toNode":"e9004c022728ce0b","toSide":"bottom"},
 		{"id":"8c8f168b25d77541","fromNode":"e9004c022728ce0b","fromSide":"right","toNode":"c66a3f034a50ec89","toSide":"left"},
-		{"id":"286b0fb403087e25","fromNode":"59861a9432db81d6","fromSide":"top","toNode":"bc63edf32421583f","toSide":"bottom"}
+		{"id":"286b0fb403087e25","fromNode":"59861a9432db81d6","fromSide":"top","toNode":"bc63edf32421583f","toSide":"bottom"},
+		{"id":"d4584ba3808b9be6","fromNode":"b19eee5c92068c64","fromSide":"top","toNode":"59861a9432db81d6","toSide":"bottom"}
 	]
 }
