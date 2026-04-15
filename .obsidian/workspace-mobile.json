@@ -62,9 +62,33 @@
               "icon": "lucide-file",
               "title": "2026-04-10"
             }
+          },
+          {
+            "id": "f2c84a6160f5dc00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Random/Daily notes/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "cc7e39d1d783c767",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -210,10 +234,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2775f42ada5e1a3",
+  "active": "cc7e39d1d783c767",
   "lastOpenFiles": [
-    "Random/Daily notes/2026-04-05.md",
+    "Random/Daily notes/Untitled.md",
     "Random/Daily notes/2026-04-10.md",
+    "Random/Daily notes/2026-04-05.md",
     "igsce/important resources for all notes.md",
     "igsce/business/Business liquid.md",
     "igsce/business/how to choose  your production methods.md",
@@ -241,7 +266,6 @@
     "igsce/Sociology/types of research/primary research/questionares/types of questionares",
     "igsce/economics/micro economics/money and banking/money/functions of money.md",
     "igsce/economics/micro economics/money and banking/money/what is money?.md",
-    "igsce/economics/micro economics/money and banking/money/Why do we need money?.md",
     "igsce/Sociology/types of research/primary research/interviews",
     "igsce/Sociology/types of research/primary research/triangulation",
     "igsce/Sociology/types of research/primary research/questionares",
